@@ -1,0 +1,5 @@
+# Librerías que necesita el crawler (se instalan con: pip install -r requirements.txt)
+requests>=2.31        # para pedir las páginas (http -> html)
+beautifulsoup4>=4.12  # para leer el HTML y sacar los datos
+lxml>=5.0             # "motor" rápido y ligero para BeautifulSoup
+pytest>=8.0           # solo para correr las pruebas de la carpeta tests/

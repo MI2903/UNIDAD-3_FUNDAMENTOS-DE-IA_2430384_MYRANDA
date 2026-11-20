@@ -1,0 +1,979 @@
+20:29:19 | robots.txt cargado correctamente.
+20:29:20 | titulo          Iron Man 2
+20:29:20 | anio            2010
+20:29:20 | generos         (4) Adventure | Action | Science Fiction | Superhero
+20:29:20 | generos_es      (4) Aventura | Acción | Ciencia ficción | Superhéroes
+20:29:20 | resumen         
+20:29:20 | resena          
+20:29:20 | descripcion     
+20:29:20 | es_marvel       True
+20:29:20 | url             https://en.wikipedia.org/wiki/Iron_Man_2
+20:29:21 | urls_similares  (0) 
+20:29:21 | urls_generos    (11) https://en.wikipedia.org/wiki/Category:2010_action_adventure_films | https://en.wikipedia.org/wiki/Category:2010s_science_fiction_adventure_films | https://en.wikipedia.org/wiki/Category:2010_science_fiction_action_films | https://en.wikipedia.org/wiki/Category:2010_superhero_films | https://en.wikipedia.org/wiki/Category:American_action_adventure_films | https://en.wikipedia.org/wiki/Category:American_science_fiction_action_films
+20:29:21 | wikidata_id     Q205028
+20:29:21 | ¿Completa para el CSV?: NO
+20:33:11 | robots.txt cargado correctamente.
+20:33:12 | (HTML guardado en C:\Users\myran\Desktop\SEPTIMO CUATRI\FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL\marvel_crawler\marvel_crawler\datos\prueba.html)
+20:33:17 | titulo          Iron Man 2
+20:33:17 | anio            2010
+20:33:17 | generos         (4) Adventure | Action | Science Fiction | Superhero
+20:33:17 | generos_es      (4) Aventura | Acción | Ciencia ficción | Superhéroes
+20:33:17 | resumen         In Russia, the media covers Tony Stark's disclosure of his identity as Iron Man. Ivan Vanko, mourning the death of his father Anton Vanko—a former Stark Industries employee, sees this and builds the same miniature arc reactor as Stark's using old Stark Industries blueprints left behind by Anton. Six…
+20:33:17 | resena          On review aggregator Rotten Tomatoes, 72% of 299 critics gave Iron Man 2 a positive review, with an average score of 6.6/10. The critics consensus reads, "It isn't quite the breath of fresh air that Iron Man was, but this sequel comes close with solid performances and an action-packed plot." Metacri…
+20:33:17 | descripcion     Iron Man 2 is a 2010 American superhero film based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures, it is the sequel to Iron Man (2008) and the third film in the Marvel Cinematic Universe (MCU). Directed by Jon Favreau and written by Justin T…
+20:33:17 | es_marvel       True
+20:33:17 | url             https://en.wikipedia.org/wiki/Iron_Man_2
+20:33:17 | urls_similares  (180) https://en.wikipedia.org/wiki/Iron_Man_and_Sub-Mariner | https://en.wikipedia.org/wiki/Iron_Man_(comic_book) | https://en.wikipedia.org/wiki/Infamous_Iron_Man | https://en.wikipedia.org/wiki/The_Invincible_Iron_Man_(comics) | https://en.wikipedia.org/wiki/Ultimate_Iron_Man | https://en.wikipedia.org/wiki/Iron_Man_(2008_film)
+20:33:17 | urls_generos    (11) https://en.wikipedia.org/wiki/Category:2010_action_adventure_films | https://en.wikipedia.org/wiki/Category:2010s_science_fiction_adventure_films | https://en.wikipedia.org/wiki/Category:2010_science_fiction_action_films | https://en.wikipedia.org/wiki/Category:2010_superhero_films | https://en.wikipedia.org/wiki/Category:American_action_adventure_films | https://en.wikipedia.org/wiki/Category:American_science_fiction_action_films
+20:33:17 | wikidata_id     Q205028
+20:33:17 | ¿Completa para el CSV?: SÍ
+20:33:33 | Aún no pones tu correo en config.py (CORREO_CONTACTO). Funciona igual, pero es mejor ponerlo para que Wikipedia no te confunda con un bot anónimo.
+20:33:34 | robots.txt cargado correctamente.
+20:33:34 | Objetivo: 700 películas. ¡Empezamos! (Ctrl+C para pausar)
+20:33:37 |    Lista de Marvel: 103 títulos encontrados (103 nuevos en cola).
+20:33:43 |    Lista de Marvel: 23 títulos encontrados (2 nuevos en cola).
+20:33:43 |    Categoría 'Marvel Cinematic Universe films': 14 enlaces (11 nuevos en cola).
+20:33:46 |    Categoría 'Films based on Marvel Comics': 4 enlaces (3 nuevos en cola).
+20:33:48 |    Categoría 'Marvel Studios films': 21 enlaces (0 nuevos en cola).
+20:33:50 |    Categoría 'Sony's Spider-Man Universe films': 12 enlaces (8 nuevos en cola).
+20:33:52 |    Categoría 'X-Men films': 3 enlaces (1 nuevos en cola).
+20:33:54 |    Categoría 'Spider-Man films': 8 enlaces (0 nuevos en cola).
+20:33:57 |    Categoría 'Fantastic Four films': 3 enlaces (1 nuevos en cola).
+20:33:59 | No existe (404): https://en.wikipedia.org/wiki/Category:Marvel_Animation_films
+20:34:02 |    Categoría 'Marvel Cinematic Universe films by phase': 0 enlaces (0 nuevos en cola).
+20:34:03 |    Categoría 'Marvel Cinematic Universe film series': 10 enlaces (10 nuevos en cola).
+20:34:05 |    Categoría 'Films based on Marvel Comics by franchise': 0 enlaces (0 nuevos en cola).
+20:34:07 |    Categoría 'Animated films based on Marvel Comics': 7 enlaces (1 nuevos en cola).
+20:34:08 |    Categoría 'Documentary films about Marvel Comics': 6 enlaces (6 nuevos en cola).
+20:34:10 |    Categoría 'Fan films based on Marvel Comics': 1 enlaces (1 nuevos en cola).
+20:34:12 |    Categoría 'Live-action films based on Marvel Comics': 41 enlaces (2 nuevos en cola).
+20:34:14 |    Categoría 'Film series based on Marvel Comics': 4 enlaces (4 nuevos en cola).
+20:34:17 |    Categoría 'Short films based on Marvel Comics': 9 enlaces (4 nuevos en cola).
+20:34:19 |    Categoría 'Venom (film series)': 7 enlaces (6 nuevos en cola).
+20:34:19 |    -- avance guardado | 20 páginas en 0.8 min | cola: 192 --
+20:34:21 |    Categoría 'X-Men (film series) films': 4 enlaces (0 nuevos en cola).
+20:34:22 |    Categoría 'Wolverine (comics) films': 1 enlaces (1 nuevos en cola).
+20:34:24 |    Categoría 'Unofficial Spider-Man films': 6 enlaces (6 nuevos en cola).
+20:34:26 |    Categoría 'Fantastic Four (film series)': 4 enlaces (3 nuevos en cola).
+20:34:28 |    Categoría 'Marvel Cinematic Universe: Phase One films': 5 enlaces (0 nuevos en cola).
+20:34:30 |    Categoría 'Marvel Cinematic Universe: Phase Two films': 3 enlaces (0 nuevos en cola).
+20:34:33 |    Categoría 'Marvel Cinematic Universe: Phase Three films': 5 enlaces (0 nuevos en cola).
+20:34:34 |    Categoría 'Marvel Cinematic Universe: Phase Four films': 4 enlaces (0 nuevos en cola).
+20:34:36 |    Categoría 'Marvel Cinematic Universe: Phase Five films': 4 enlaces (0 nuevos en cola).
+20:34:38 |    Categoría 'Marvel Cinematic Universe: Phase Six films': 0 enlaces (0 nuevos en cola).
+20:34:38 |    -- avance guardado | 30 páginas en 1.1 min | cola: 195 --
+20:34:40 |    Categoría 'Ant-Man (film series)': 12 enlaces (9 nuevos en cola).
+20:34:42 |    Categoría 'Avengers (film series)': 17 enlaces (15 nuevos en cola).
+20:34:45 |    Categoría 'Black Panther (film series)': 20 enlaces (17 nuevos en cola).
+20:34:47 |    Categoría 'Captain America (film series)': 5 enlaces (3 nuevos en cola).
+20:34:50 |    Categoría 'Captain Marvel (film series)': 9 enlaces (6 nuevos en cola).
+20:34:51 |    Categoría 'Deadpool (film series)': 17 enlaces (17 nuevos en cola).
+20:34:53 |    Categoría 'Doctor Strange (film series)': 9 enlaces (6 nuevos en cola).
+20:34:56 |    Categoría 'Guardians of the Galaxy (film series)': 18 enlaces (13 nuevos en cola).
+20:34:57 |    Categoría 'Iron Man (film series)': 19 enlaces (14 nuevos en cola).
+20:34:59 |    Categoría 'Spider-Man (2017 film series)': 8 enlaces (6 nuevos en cola).
+20:34:59 |    -- avance guardado | 40 páginas en 1.4 min | cola: 291 --
+20:35:01 |    Categoría 'Thor (film series)': 10 enlaces (4 nuevos en cola).
+20:35:03 |    Categoría 'Kingsman (franchise) films': 3 enlaces (2 nuevos en cola).
+20:35:05 |    Categoría 'Fan films based on Spider-Man': 4 enlaces (1 nuevos en cola).
+20:35:08 |    Categoría 'Fan films based on the Punisher': 1 enlaces (0 nuevos en cola).
+20:35:10 |    Categoría 'Blade (comics) films': 4 enlaces (1 nuevos en cola).
+20:35:12 |    Categoría 'Daredevil (film series)': 7 enlaces (5 nuevos en cola).
+20:35:14 |    Categoría 'Ghost Rider (film series)': 3 enlaces (2 nuevos en cola).
+20:35:16 |    Categoría 'Spider-Man film series': 7 enlaces (4 nuevos en cola).
+20:35:18 |    Categoría 'X-Men (film series)': 4 enlaces (3 nuevos en cola).
+20:35:20 |    Categoría 'Deadpool (film series) films': 7 enlaces (1 nuevos en cola).
+20:35:20 |    -- avance guardado | 50 páginas en 1.8 min | cola: 304 --
+20:35:22 |    Categoría 'Wolverine (film series) films': 3 enlaces (0 nuevos en cola).
+20:35:25 |    Categoría 'Wolverine (film series)': 9 enlaces (5 nuevos en cola).
+20:35:28 | [1/700] Howard the Duck (1986) | Science Fiction, Comedy, Superhero, Action | MARVEL
+20:35:29 | [2/700] Blade (1998) | Fantasy, Thriller, Action, Horror | MARVEL
+20:35:32 | [3/700] X-Men (2000) | Science Fiction, Action, Adventure, Superhero | MARVEL
+20:35:32 | [4/700] Blade II (2002) | Horror, Science Fiction, Action, Superhero | MARVEL
+20:35:35 | [5/700] Spider-Man (2002) | Science Fiction, Action, Romance, Superhero | MARVEL
+20:35:36 | [6/700] Daredevil (2003) | Science Fiction, Action, Superhero, Drama | MARVEL
+20:35:37 | [7/700] X2 (2003) | Adventure, Superhero, Science Fiction, Action | MARVEL
+20:35:40 | [8/700] Hulk (2003) | Superhero, Science Fiction, Action, Drama | MARVEL
+20:35:40 |    -- avance guardado | 60 páginas en 2.1 min | cola: 812 --
+20:35:41 | [9/700] The Punisher (2004) | Action | MARVEL
+20:35:43 | [10/700] Spider-Man 2 (2004) | Superhero, Heist, Romance, Action | MARVEL
+20:35:44 | [11/700] Elektra (2005) | Superhero, Action, Martial Arts, Christmas | MARVEL
+20:35:47 | [12/700] Fantastic Four (2005) | Science Fiction, Action, Superhero, Adventure | MARVEL
+20:35:49 | [13/700] Ghost Rider (2007) | Action, Horror, Fantasy, Superhero | MARVEL
+20:35:52 | [14/700] Spider-Man 3 (2007) | Action, Superhero, Drama, Teen | MARVEL
+20:35:54 | [15/700] Iron Man (2008) | Adventure, Action, Science Fiction, Superhero | MARVEL
+20:35:56 | [16/700] The Incredible Hulk (2008) | Thriller, Action, Science Fiction, Superhero | MARVEL
+20:35:57 | [17/700] Iron Man 2 (2010) | Adventure, Action, Science Fiction, Superhero | MARVEL
+20:35:59 | [18/700] Thor (2011) | Fantasy, Action, Superhero | MARVEL
+20:35:59 |    -- avance guardado | 70 páginas en 2.4 min | cola: 1169 --
+20:36:02 | [19/700] The Avengers (2012) | Adventure, Action, Thriller, Fantasy | MARVEL
+20:36:04 | [20/700] The Amazing Spider-Man (2012) | Heist, Romance, Action, Superhero | MARVEL
+20:36:06 | [21/700] Iron Man 3 (2013) | Christmas, Superhero, Science Fiction, Action | MARVEL
+20:36:09 | [22/700] The Wolverine (2013) | Superhero, Adventure, Action, Science Fiction | MARVEL
+20:36:10 | [23/700] The Amazing Spider-Man 2 (2014) | Heist, Romance, Action, Superhero | MARVEL
+20:36:12 | [24/700] Guardians of the Galaxy (2014) | Adventure, Action, Comedy, Science Fiction | MARVEL
+20:36:15 | [25/700] Ant-Man (2015) | Adventure, Heist, Science Fiction, Comedy | MARVEL
+20:36:16 | [26/700] Fantastic Four (2015) | Adventure, Action, Superhero, Science Fiction | MARVEL
+20:36:18 | [27/700] Deadpool (2016) | Comedy, Superhero, Action, Black Comedy | MARVEL
+20:36:20 | [28/700] Doctor Strange (2016) | Fantasy, Action, Adventure, Science Fiction | MARVEL
+20:36:20 |    -- avance guardado | 80 páginas en 2.8 min | cola: 1536 --
+20:36:22 | [29/700] Logan (2017) | Adventure, Action, Psychological, Drama | MARVEL
+20:36:23 | [30/700] Guardians of the Galaxy Vol. 2 (2017) | Adventure, Action, Comedy, Science Fiction | MARVEL
+20:36:25 | [31/700] Black Panther (2018) | Science Fiction, Action, Adventure, Superhero | MARVEL
+20:36:27 | [32/700] Deadpool 2 (2018) | Superhero, Comedy, Action, Black Comedy | MARVEL
+20:36:35 | [33/700] Ant-Man and the Wasp (2018) | Adventure, Science Fiction, Superhero, Comedy | MARVEL
+20:36:37 | [34/700] Venom (2018) | Thriller, Action, Science Fiction, Superhero | MARVEL
+20:36:38 | [35/700] Captain Marvel (2019) | Superhero, Science Fiction, Action, Historical | MARVEL
+20:36:40 | [36/700] Dark Phoenix (2019) | Adventure, Action, Superhero | MARVEL
+20:36:42 | [37/700] The New Mutants (2020) | Thriller, Horror, Science Fiction, Superhero | MARVEL
+20:36:46 | [38/700] Black Widow (2021) | Thriller, Spy, Superhero, Action | MARVEL
+20:36:46 |    -- avance guardado | 90 páginas en 3.2 min | cola: 1726 --
+20:36:49 | [39/700] Shang-Chi and the Legend of the Ten Rings (2021) | Fantasy, Action, Superhero, Martial Arts | MARVEL
+20:36:51 | [40/700] Eternals (2021) | Fantasy, Action, Superhero, Science Fiction | MARVEL
+20:36:53 | [41/700] Morbius (2022) | Vampire, Science Fiction, Action, Superhero | MARVEL
+20:36:58 | [42/700] Doctor Strange in the Multiverse of Madness (2022) | Fantasy, Action, Adventure, Superhero | MARVEL
+20:37:00 | [43/700] Guardians of the Galaxy Vol. 3 (2023) | Adventure, Superhero, Comedy, Action | MARVEL
+20:37:02 | [44/700] The Marvels (2023) | Science Fiction, Adventure, Coming-of-age, Action | MARVEL
+20:37:03 | [45/700] Madame Web (2024) | Science Fiction, Thriller, Superhero, Action | MARVEL
+20:37:06 | [46/700] Deadpool & Wolverine (2024) | Comedy, Superhero, Action, Buddy | MARVEL
+20:37:07 | [47/700] Kraven the Hunter (2024) | Science Fiction, Action, Superhero | MARVEL
+20:37:10 | [48/700] Thunderbolts* (2025) | Superhero, Science Fiction, Action | MARVEL
+20:37:10 |    -- avance guardado | 100 páginas en 3.6 min | cola: 1939 --
+20:37:12 | [49/700] Captain America (1944) | Superhero, Adventure, Action | MARVEL
+20:37:14 | [50/700] Spider-Man (1978) | Action, Superhero, Science Fiction | MARVEL
+20:37:17 |    (incompleta, no la guardo) Marvel One-Shots
+20:37:19 |    (incompleta, no la guardo) Marvel One-Shots
+20:37:21 |    (incompleta, no la guardo) Item 47
+20:37:24 | [51/700] Agent Carter (2013) | Superhero, Action | MARVEL
+20:37:27 | [52/700] All Hail the King (2014) | Superhero, Action | MARVEL
+20:37:30 | [53/700] Team Thor (2016) | Superhero, Fantasy | MARVEL
+20:37:32 | [54/700] No Good Deed (2017) | Superhero, Action, Comedy, Black Comedy | MARVEL
+20:37:35 |    -- avance guardado | 110 páginas en 4.0 min | cola: 2132 --
+20:37:39 | [55/700] Spider-Man: Far From Home (2019) | Coming-of-age, Science Fiction, Adventure, Superhero | MARVEL
+20:37:40 | [56/700] Deadpool and Korg React (2021) | Superhero, Science Fiction, Fantasy, Action | MARVEL
+20:37:42 | [57/700] Kick-Ass (2010) | Action, Comedy, Black Comedy, Superhero | MARVEL
+20:37:45 | [58/700] Kick-Ass 2 (2013) | Action, Comedy, Black Comedy, Superhero | MARVEL
+20:37:46 | [59/700] The King's Man (2021) | Action, Spy, Historical, War | MARVEL
+20:37:49 | [60/700] Argylle (2024) | Action, Comedy, Thriller, Spy | MARVEL
+20:37:55 | [61/700] Men in Black (1997) | Comedy, Buddy, Science Fiction, Action | MARVEL
+20:37:55 |    -- avance guardado | 120 páginas en 4.4 min | cola: 2562 --
+20:37:57 | [62/700] Men in Black II (2002) | Buddy, Comedy, Science Fiction, Action | MARVEL
+20:37:59 | [63/700] Men in Black 3 (2012) | Buddy, Science Fiction, Comedy, Action | MARVEL
+20:38:10 | [64/700] Dr. Strange (1978) | Superhero, Action | MARVEL
+20:38:12 | [65/700] Captain America (1979) | Action, Superhero | MARVEL
+20:38:14 | [66/700] The Incredible Hulk Returns (1988) | Superhero, Action | MARVEL
+20:38:15 | [67/700] The Trial of the Incredible Hulk (1989) | Superhero, Drama, Crime | MARVEL
+20:38:15 |    -- avance guardado | 130 páginas en 4.7 min | cola: 2596 --
+20:38:18 | [68/700] The Punisher (1989) | Adventure, Action, Thriller, Drama | MARVEL
+20:38:20 | [69/700] The Death of the Incredible Hulk (1990) | Drama, Superhero, Action | MARVEL
+20:38:26 | [70/700] Captain America (1990) | Science Fiction, Action, Superhero | MARVEL
+20:38:27 | [71/700] The Fantastic Four (1994) | Adventure, Action, Science Fiction, Superhero | MARVEL
+20:38:28 | [72/700] Generation X (1996) | Science Fiction, Action, Superhero | MARVEL
+20:38:30 | [73/700] Man-Thing (2005) | Horror, Superhero, Science Fiction | MARVEL
+20:38:32 | [74/700] Spider-Man (1977) | Action, Superhero | MARVEL
+20:38:38 |    -- avance guardado | 140 páginas en 5.1 min | cola: 2705 --
+20:38:40 | [75/700] Spider-Man Strikes Back (1978) | Action, Superhero | MARVEL
+20:38:55 | [76/700] Big Hero 6 (2014) | Superhero, Animation, Coming-of-age, Comedy | MARVEL
+20:39:01 |    (incompleta, no la guardo) Kyoufu Densetsu Kaiki! Frankenstein
+20:39:04 | [77/700] Ultimate Avengers: The Movie (2006) | Action, Superhero, Animation, Adventure | MARVEL
+20:39:04 |    -- avance guardado | 150 páginas en 5.5 min | cola: 3014 --
+20:39:06 | [78/700] Marvel Animated Features (2006) | Animation, Action, Science Fiction, Superhero | MARVEL
+20:39:20 | [79/700] Black Panther: Wakanda Forever (2022) | Superhero, Science Fiction, Action, Drama | MARVEL
+20:39:26 |    -- avance guardado | 160 páginas en 5.9 min | cola: 3005 --
+20:39:48 |    -- avance guardado | 170 páginas en 6.2 min | cola: 2995 --
+20:40:08 |    -- avance guardado | 180 páginas en 6.6 min | cola: 2985 --
+20:40:31 |    -- avance guardado | 190 páginas en 7.0 min | cola: 2975 --
+20:40:35 | [80/700] Do Not Fall in New York City (2012) | Drama, Crime | MARVEL
+20:40:44 | [81/700] Marvel's Behind the Mask (2021) | Documentary | MARVEL
+20:40:46 | [82/700] Stan Lee's Mutants, Monsters & Marvels (2002) | Documentary | MARVEL
+20:40:48 | [83/700] Deadpool The Musical 2 – Ultimate Disney Parody (2018) | Parody | MARVEL
+20:40:49 |    -- avance guardado | 200 páginas en 7.2 min | cola: 3037 --
+20:41:05 | [84/700] Spider-Man (1969) | Science Fiction, Superhero | MARVEL
+20:41:08 | [85/700] Spider-Man Versus Kraven the Hunter (1974) | Science Fiction, Superhero | MARVEL
+20:41:11 | [86/700] Viva Spider-Man (1980) | Superhero | MARVEL
+20:41:13 |    -- avance guardado | 210 páginas en 7.6 min | cola: 3032 --
+20:41:30 | [87/700] 3 Dev Adam (1973) | Superhero, Action | MARVEL
+20:41:32 | [88/700] Dariya Dil (1988) | Drama | MARVEL
+20:41:34 | [89/700] Italian Spiderman (2007) | Parody, Superhero, Comedy, Action | MARVEL
+20:41:36 |    -- avance guardado | 220 páginas en 8.0 min | cola: 3030 --
+20:41:39 | [90/700] SpiderBabe (2003) | Superhero | MARVEL
+20:41:42 | [91/700] Superman vs. Spider-Man XXX: An Axel Braun Parody (2012) | Parody, Superhero, Comedy, Action | MARVEL
+20:42:00 |    -- avance guardado | 230 páginas en 8.4 min | cola: 3025 --
+20:42:21 |    -- avance guardado | 240 páginas en 8.8 min | cola: 3015 --
+20:42:42 |    -- avance guardado | 250 páginas en 9.1 min | cola: 3005 --
+20:43:06 |    -- avance guardado | 260 páginas en 9.5 min | cola: 2995 --
+20:43:24 | No existe (404): https://en.wikipedia.org/wiki/What_If..._Captain_Carter_Were_the_First_Avenger?
+20:43:27 |    -- avance guardado | 270 páginas en 9.9 min | cola: 2985 --
+20:43:47 |    -- avance guardado | 280 páginas en 10.2 min | cola: 2975 --
+20:44:10 |    -- avance guardado | 290 páginas en 10.6 min | cola: 2965 --
+20:44:32 |    -- avance guardado | 300 páginas en 11.0 min | cola: 2955 --
+20:44:39 | [92/700] The Guardians of the Galaxy Holiday Special (s/f) | Superhero, Comedy, Action, Adventure | MARVEL
+20:44:54 |    -- avance guardado | 310 páginas en 11.3 min | cola: 2995 --
+20:45:20 |    -- avance guardado | 320 páginas en 11.8 min | cola: 2985 --
+20:45:42 | [93/700] Spider-Man: Homecoming (2017) | Coming-of-age, Superhero, Science Fiction, Action | MARVEL
+20:45:43 |    -- avance guardado | 330 páginas en 12.2 min | cola: 2985 --
+20:45:59 | [94/700] The Green Goblin's Last Stand (1992) | Superhero | MARVEL
+20:46:03 |    -- avance guardado | 340 páginas en 12.5 min | cola: 2976 --
+20:46:38 |    -- avance guardado | 350 páginas en 13.1 min | cola: 2966 --
+20:46:57 |    -- avance guardado | 360 páginas en 13.4 min | cola: 2956 --
+20:47:14 | [95/700] American Graffiti (1973) | Comedy-drama, Coming-of-age, Teen | similar
+20:47:18 | [96/700] Star Wars (1977) | Science Fiction, Action, Adventure, War | similar
+20:47:19 | [97/700] More American Graffiti (1979) | Coming-of-age, Comedy-drama, Teen, Comedy | similar
+20:47:19 |    -- avance guardado | 370 páginas en 13.7 min | cola: 3203 --
+20:47:24 | [98/700] The Empire Strikes Back (1980) | Science Fiction, Action, War, Adventure | similar
+20:47:30 | [99/700] Raiders of the Lost Ark (1981) | Adventure, Action, Historical, Supernatural | similar
+20:47:32 | [100/700] Return of the Jedi (1983) | Science Fiction, Action, Adventure, War | similar
+20:47:34 | [101/700] Twice Upon a Time (1983) | Animation, Fantasy, Comedy, Adventure | similar
+20:47:37 | [102/700] Indiana Jones and the Temple of Doom (1984) | Adventure, Action, Thriller | similar
+20:47:40 |    (incompleta, no la guardo) Latino
+20:47:43 | [103/700] Labyrinth (1986) | Coming-of-age, Adventure, Fantasy, Musical | similar
+20:47:44 | [104/700] Willow (1988) | Dark Fantasy, Fantasy, Action, Adventure | similar
+20:47:46 | [105/700] The Land Before Time (1988) | Adventure, Drama, Buddy, Animation | similar
+20:47:49 | [106/700] Indiana Jones and the Last Crusade (1989) | Adventure, Action | similar
+20:47:49 |    -- avance guardado | 380 páginas en 14.2 min | cola: 3725 --
+20:47:52 | [107/700] Radioland Murders (1994) | Mystery, Comedy, Thriller | similar
+20:47:56 | [108/700] Indiana Jones and the Kingdom of the Crystal Skull (2008) | Adventure, Action, Spy, War | similar
+20:47:58 | [109/700] Red Tails (2012) | Drama, War, Adventure, Biographical | similar
+20:48:00 | [110/700] Strange Magic (2015) | Animation, Comedy, Fantasy, Musical | similar
+20:48:03 | [111/700] Rogue One: A Star Wars Story (2016) | Fantasy, Science Fiction, War, Adventure | similar
+20:48:06 | [112/700] Indiana Jones and the Dial of Destiny (2023) | Adventure, Action, War | similar
+20:48:08 | [113/700] Star Wars: The Mandalorian and Grogu (2026) | Adventure, Action, Fantasy, Science Fiction | similar
+20:48:13 |    -- avance guardado | 390 páginas en 14.6 min | cola: 3887 --
+20:48:38 |    -- avance guardado | 400 páginas en 15.1 min | cola: 3877 --
+20:48:42 |    (incompleta, no la guardo) The Lego Star Wars Holiday Special
+20:48:45 | [114/700] Captain EO (1986) | Musical, Science Fiction, Action, Adventure | similar
+20:48:57 | [115/700] THX 1138 (1971) | Science Fiction, Dystopian, Action | similar
+20:48:59 |    -- avance guardado | 410 páginas en 15.4 min | cola: 4035 --
+20:49:01 | [116/700] Messiah of Evil (1974) | Horror, Supernatural, Vampire, Zombie | similar
+20:49:03 |    (incompleta, no la guardo) French Postcards
+20:49:06 | [117/700] Best Defense (1984) | Action, Comedy, Political, Spy | similar
+20:49:08 | [118/700] Can't Stop the Music (1980) | Comedy, Musical | similar
+20:49:11 | [119/700] Mommie Dearest (1981) | Biographical, Drama, Psychological | similar
+20:49:12 | [120/700] Inchon (1981) | Drama, War | similar
+20:49:14 | [121/700] The Lonely Lady (1983) | Drama | similar
+20:49:16 | [122/700] Bolero (1984) | Romance, Drama | similar
+20:49:18 | [123/700] Under the Cherry Moon (1986) | Musical, Romance, Drama, Comedy-drama | similar
+20:49:20 | [124/700] Leonard Part 6 (1987) | Parody, Comedy, Spy | similar
+20:49:21 |    -- avance guardado | 420 páginas en 15.8 min | cola: 4203 --
+20:49:24 | [125/700] Cocktail (1988) | Comedy-drama, Romance, Comedy, Drama | similar
+20:49:25 | [126/700] The Adventures of Ford Fairlane (1990) | Action, Comedy, Adventure, Mystery | similar
+20:49:26 | [127/700] Ghosts Can't Do It (1989) | Fantasy, Comedy, Supernatural, Crime | similar
+20:49:28 | [128/700] Hudson Hawk (1991) | Action, Comedy, Crime, Heist | similar
+20:49:30 | [129/700] Shining Through (1992) | Romance, Drama, Spy, War | similar
+20:49:33 | [130/700] Indecent Proposal (1993) | Romance, Drama | similar
+20:49:35 | [131/700] Color of Night (1994) | Thriller, Mystery, Romance, Slasher | similar
+20:49:38 | [132/700] Showgirls (1995) | Black Comedy, Comedy-drama, Drama | similar
+20:49:40 | [133/700] Striptease (1996) | Black Comedy, Comedy, Crime, Satire | similar
+20:49:42 | [134/700] The Postman (1997) | Adventure, Action, Science Fiction, Post-apocalyptic | similar
+20:49:42 |    -- avance guardado | 430 páginas en 16.1 min | cola: 4479 --
+20:49:45 | [135/700] Wild Wild West (1999) | Western, Science Fiction, Action, Comedy | similar
+20:49:48 | [136/700] Battlefield Earth (2000) | Dystopian, Science Fiction, Adventure, Action | similar
+20:49:50 | [137/700] Freddy Got Fingered (2001) | Black Comedy, Comedy | similar
+20:49:51 | [138/700] Swept Away (2002) | Comedy-drama, Romance | similar
+20:49:54 | [139/700] Gigli (2003) | Romance, Comedy, Crime | similar
+20:49:56 | [140/700] Catwoman (2004) | Superhero, Action | similar
+20:49:58 | [141/700] Dirty Love (2005) | Romance, Comedy | similar
+20:50:00 | [142/700] Basic Instinct 2 (2006) | Psychological, Thriller, Mystery, Crime | similar
+20:50:03 | [143/700] I Know Who Killed Me (2007) | Psychological, Thriller, Crime | similar
+20:50:05 | [144/700] The Love Guru (2008) | Romance, Comedy, Sports | similar
+20:50:06 |    -- avance guardado | 440 páginas en 16.5 min | cola: 4669 --
+20:50:09 | [145/700] The Last Airbender (2010) | Adventure, Fantasy, Martial Arts, Action | similar
+20:50:18 | [146/700] Jack and Jill (2011) | Comedy | similar
+20:50:20 | [147/700] Movie 43 (2013) | Comedy, Black Comedy | similar
+20:50:21 | [148/700] Saving Christmas (2014) | Christmas, Comedy | similar
+20:50:24 | [149/700] Fifty Shades of Grey (2015) | Romance, Drama | similar
+20:50:25 | [150/700] The Emoji Movie (2017) | Animation, Comedy, Fantasy, Teen | similar
+20:50:27 | [151/700] Holmes & Watson (2018) | Parody, Comedy, Buddy, Mystery | similar
+20:50:30 | [152/700] Cats (2019) | Fantasy, Musical | similar
+20:50:31 | [153/700] Absolute Proof (2021) | Documentary | similar
+20:50:33 |    -- avance guardado | 450 páginas en 17.0 min | cola: 5226 --
+20:50:36 | [154/700] Blonde (2022) | Biographical, Drama, Romance, Psychological | similar
+20:50:38 | [155/700] War of the Worlds (2025) | Fantasy, Action, Science Fiction, Adventure | similar
+20:50:41 | [156/700] If Ever I See You Again (1978) | Romance, Drama | similar
+20:50:43 |    (incompleta, no la guardo) Renaldo and Clara
+20:50:44 | [157/700] Nightwing (1979) | Horror | similar
+20:50:46 | [158/700] The Main Event (1979) | Romance, Comedy, Sports | similar
+20:50:48 | [159/700] Popeye (1980) | Romance, Comedy, Adventure, Musical | similar
+20:50:51 | [160/700] Tarzan, the Ape Man (1981) | Adventure, Fantasy, Satire | similar
+20:50:53 | [161/700] Krull (1983) | Adventure, Fantasy, Action, Dark Fantasy | similar
+20:50:55 | [162/700] Dune (1984) | Adventure, Action, Science Fiction | similar
+20:50:55 |    -- avance guardado | 460 páginas en 17.3 min | cola: 5759 --
+20:51:00 | [163/700] Revolution (1985) | Adventure, Drama, Historical, War | similar
+20:51:03 | [164/700] Spaceballs (1987) | Adventure, Comedy, Buddy, Parody | similar
+20:51:04 | [165/700] Caddyshack II (1988) | Comedy, Sports | similar
+20:51:06 | [166/700] Harlem Nights (1989) | Comedy-drama, Buddy, Crime, Heist | similar
+20:51:08 | [167/700] The Bonfire of the Vanities (1990) | Comedy-drama, Black Comedy, Satire, Comedy | similar
+20:51:10 | [168/700] Nothing but Trouble (1991) | Comedy, Horror | similar
+20:51:12 | [169/700] Sliver (1993) | Thriller, Mystery, Psychological, Romance | similar
+20:51:14 | [170/700] North (1994) | Comedy-drama, Adventure, Fantasy, Comedy | similar
+20:51:17 | [171/700] Batman & Robin (1997) | Superhero, Science Fiction, Action, Adventure | similar
+20:51:18 | [172/700] Spice World (1997) | Comedy, Buddy, Musical | similar
+20:51:19 |    -- avance guardado | 470 páginas en 17.7 min | cola: 6035 --
+20:51:23 | [173/700] Dr. Seuss' The Cat in the Hat (2003) | Comedy, Fantasy | similar
+20:51:25 | [174/700] Alone in the Dark (2005) | Action, Horror, Science Fiction | similar
+20:51:25 | [175/700] BloodRayne (2005) | Horror, Action, Satire, Supernatural | similar
+20:51:31 | [176/700] Death Machine (1994) | Horror, Science Fiction, Action | similar
+20:51:34 |    (incompleta, no la guardo) The Last Minute
+20:51:38 | [177/700] The League of Extraordinary Gentlemen (2003) | Action, Adventure, Fantasy, Superhero | similar
+20:51:38 | [178/700] Zig Zag (2002) | Drama | similar
+20:51:41 | [179/700] The Invisible (2007) | Thriller, Supernatural, Teen | similar
+20:51:45 | [180/700] The Unborn (2009) | Horror, Thriller, Supernatural | similar
+20:51:45 |    -- avance guardado | 480 páginas en 18.2 min | cola: 6519 --
+20:51:48 | [181/700] Death Warrant (1990) | Thriller, Action, Martial Arts | similar
+20:51:49 | [182/700] Kickboxer 2 (1991) | Martial Arts, Action | similar
+20:51:51 | [183/700] Demonic Toys (1992) | Horror, Supernatural | similar
+20:51:52 |    (incompleta, no la guardo) Arcade
+20:51:55 |    (incompleta, no la guardo) The Substitute
+20:51:58 | [184/700] The Puppet Masters (1994) | Thriller, Science Fiction, Horror, War | similar
+20:52:00 | [185/700] Dark City (1998) | Science Fiction, Thriller, Dystopian, Fantasy | similar
+20:52:03 | [186/700] Batman Begins (2005) | Thriller, Action, Superhero, Crime | similar
+20:52:04 | [187/700] Jumper (2008) | Science Fiction, Action, Adventure, Teen | similar
+20:52:08 | [188/700] The Dark Knight (2008) | Superhero, Action, Crime, Drama | similar
+20:52:09 |    -- avance guardado | 490 páginas en 18.6 min | cola: 6766 --
+20:52:14 | [189/700] The Dark Knight Rises (2012) | Superhero, Thriller, Action | similar
+20:52:17 | [190/700] Man of Steel (2013) | Coming-of-age, Science Fiction, Adventure, Drama | similar
+20:52:19 | [191/700] Hellraiser (2022) | Supernatural, Horror, Science Fiction | similar
+20:52:39 |    -- avance guardado | 500 páginas en 19.1 min | cola: 7078 --
+20:52:44 |    (incompleta, no la guardo) Vampire Assassin
+20:52:55 |    (incompleta, no la guardo) Lion's Den
+20:52:57 | [192/700] Public Access (1993) | Thriller | similar
+20:52:58 | [193/700] The Usual Suspects (1995) | Heist, Mystery, Thriller, Crime | similar
+20:53:01 | [194/700] Apt Pupil (1998) | Drama, Coming-of-age, Psychological, Thriller | similar
+20:53:01 |    -- avance guardado | 510 páginas en 19.4 min | cola: 7271 --
+20:53:04 | [195/700] Superman Returns (2006) | Superhero, Science Fiction | similar
+20:53:06 | [196/700] Valkyrie (2008) | Political, Thriller, War | similar
+20:53:08 | [197/700] Jack the Giant Slayer (2013) | Adventure, Fantasy, Monster | similar
+20:53:10 | [198/700] Bohemian Rhapsody (2018) | Biographical, Drama, Historical, Musical | similar
+20:53:10 | [199/700] Monument (2026) | Historical, Drama, Biographical, War | similar
+20:53:16 | [200/700] Trick ' r Treat (2007) | Black Comedy, Comedy, Horror, Supernatural | similar
+20:53:18 | No existe (404): https://en.wikipedia.org/wiki/Uwantme2killhim?
+20:53:20 | [201/700] The Taking of Deborah Logan (2014) | Horror, Supernatural | similar
+20:53:23 |    (incompleta, no la guardo) " Pilot "
+20:53:23 |    -- avance guardado | 520 páginas en 19.8 min | cola: 7467 --
+20:53:26 |    (incompleta, no la guardo) Mockingbird Lane
+20:53:28 | [202/700] An Open Secret (2014) | Documentary | similar
+20:53:31 | [203/700] Slaughterhouse-Five (1972) | Science Fiction, Comedy-drama, Satire, War | similar
+20:53:33 | [204/700] Soylent Green (1973) | Dystopian, Science Fiction, Thriller, Neo-noir | similar
+20:53:35 | [205/700] Rollerball (1975) | Science Fiction, Action, Dystopian | similar
+20:53:37 | [206/700] Logan's Run (1976) | Dystopian, Science Fiction, Action, Post-apocalyptic | similar
+20:53:41 | [207/700] Superman (1978) | Coming-of-age, Adventure, Fantasy, Superhero | similar
+20:53:43 | [208/700] Alien (1979) | Science Fiction, Horror | similar
+20:53:44 | [209/700] Superman II (1980) | Action, Fantasy, Science Fiction, Superhero | similar
+20:53:44 |    -- avance guardado | 530 páginas en 20.2 min | cola: 7923 --
+20:53:49 | [210/700] E.T. the Extra-Terrestrial (1982) | Coming-of-age, Science Fiction, Adventure, Fantasy | similar
+20:53:51 | [211/700] The Terminator (1984) | Action, Science Fiction, Dystopian, Post-apocalyptic | similar
+20:53:54 | [212/700] Back to the Future (1985) | Science Fiction, Comedy, Adventure, Teen | similar
+20:53:57 | [213/700] Aliens (1986) | Action, Science Fiction | similar
+20:53:59 | [214/700] RoboCop (1987) | Action, Science Fiction, Dystopian, Satire | similar
+20:54:00 | [215/700] Alien Nation (1988) | Science Fiction, Action, Buddy, Neo-noir | similar
+20:54:03 | [216/700] Total Recall (1990) | Thriller, Action, Science Fiction, Dystopian | similar
+20:54:07 | [217/700] Jurassic Park (1993) | Science Fiction, Adventure, Thriller, Monster | similar
+20:54:08 | [218/700] Stargate (1994) | Science Fiction, Action, Adventure | similar
+20:54:10 | [219/700] 12 Monkeys (1995) | Dystopian, Science Fiction, Neo-noir, Post-apocalyptic | similar
+20:54:10 |    -- avance guardado | 540 páginas en 20.6 min | cola: 8288 --
+20:54:15 | [220/700] Independence Day (1996) | Disaster, Science Fiction, War, Action | similar
+20:54:16 | [221/700] Armageddon (1998) | Disaster, Adventure, Science Fiction, Action | similar
+20:54:19 | [222/700] The Matrix (1999) | Dystopian, Thriller, Action, Science Fiction | similar
+20:54:21 | [223/700] A.I. Artificial Intelligence (2001) | Drama, Science Fiction, Dystopian, Post-apocalyptic | similar
+20:54:26 | [224/700] Minority Report (2002) | Thriller, Action, Science Fiction, Dystopian | similar
+20:54:28 | [225/700] Eternal Sunshine of the Spotless Mind (2004) | Comedy-drama, Romance, Science Fiction, Psychological | similar
+20:54:40 | [226/700] Children of Men (2006) | Thriller, Action, Science Fiction, Drama | similar
+20:54:42 | [227/700] Cloverfield (2008) | Disaster, Science Fiction, Horror, Action | similar
+20:54:45 | [228/700] Avatar (2009) | Adventure, Action, Science Fiction, War | similar
+20:54:48 | [229/700] Inception (2010) | Adventure, Action, Thriller, Psychological | similar
+20:54:48 |    -- avance guardado | 550 páginas en 21.2 min | cola: 8628 --
+20:54:49 | [230/700] Rise of the Planet of the Apes (2011) | Science Fiction, Action, Drama, Dystopian | similar
+20:54:54 | [231/700] Gravity (2013) | Disaster, Science Fiction, Drama, Adventure | similar
+20:54:57 | [232/700] Interstellar (2014) | Disaster, Science Fiction, Drama, Adventure | similar
+20:54:59 | [233/700] Blade Runner 2049 (2017) | Thriller, Action, Mystery, Psychological | similar
+20:55:00 | [234/700] Ready Player One (2018) | Science Fiction, Adventure, Action, Dystopian | similar
+20:55:07 | [235/700] Nope (2022) | Western, Horror, Science Fiction | similar
+20:55:08 |    (incompleta, no la guardo) Doña Lupe
+20:55:10 | [236/700] Geometria (1987) | Comedy, Horror, Dark Fantasy, Supernatural | similar
+20:55:12 | [237/700] Cronos (1992) | Vampire, Christmas, Horror, Supernatural | similar
+20:55:14 | [238/700] Mimic (1997) | Science Fiction, Horror, Monster | similar
+20:55:14 |    -- avance guardado | 560 páginas en 21.7 min | cola: 8818 --
+20:55:17 | [239/700] The Devil ' s Backbone (2001) | Horror, Fantasy, Thriller, Supernatural | similar
+20:55:19 | [240/700] Hellboy (2004) | Superhero, Zombie | similar
+20:55:21 | [241/700] Pan ' s Labyrinth (2006) | Dark Fantasy, Fantasy, Drama, Historical | similar
+20:55:24 | [242/700] Pacific Rim (2013) | Science Fiction, Adventure, Thriller, Action | similar
+20:55:25 | [243/700] Crimson Peak (2015) | Fantasy, Romance, Dark Fantasy, Supernatural | similar
+20:55:26 | [244/700] The Shape of Water (2017) | Historical, Romance, Fantasy, Dark Fantasy | similar
+20:55:28 | [245/700] Nightmare Alley (2021) | Psychological, Thriller, Neo-noir | similar
+20:55:30 | [246/700] Guillermo del Toro ' s Pinocchio (2022) | Fantasy, Dark Fantasy, Musical, Animation | similar
+20:55:32 | [247/700] Frankenstein (2025) | Historical, Drama, Science Fiction, Horror | similar
+20:55:34 | [248/700] Don ' t Be Afraid of the Dark (2010) | Horror, Dark Fantasy | similar
+20:55:34 |    -- avance guardado | 570 páginas en 22.0 min | cola: 9422 --
+20:55:36 | [249/700] Scary Stories to Tell in the Dark (2019) | Supernatural, Horror, Adventure, Science Fiction | similar
+20:55:38 | [250/700] The Witches (2020) | Animation, Dark Fantasy, Fantasy, Horror | similar
+20:55:57 |    -- avance guardado | 580 páginas en 22.4 min | cola: 9635 --
+20:56:04 |    (incompleta, no la guardo) The Hobbit
+20:56:19 |    -- avance guardado | 590 páginas en 22.8 min | cola: 9794 --
+20:56:42 |    -- avance guardado | 600 páginas en 23.1 min | cola: 9784 --
+20:57:05 |    -- avance guardado | 610 páginas en 23.5 min | cola: 9774 --
+20:57:23 |    -- avance guardado | 620 páginas en 23.8 min | cola: 9764 --
+20:57:41 | [251/700] The Spider-Man of Sudan (2022) | Documentary | MARVEL
+20:57:43 |    (incompleta, no la guardo) It's Murder!
+20:57:45 |    (incompleta, no la guardo) Within the Woods
+20:57:45 |    -- avance guardado | 630 páginas en 24.2 min | cola: 9779 --
+20:57:50 | [252/700] The Evil Dead (1981) | Thriller, Horror, Teen, Supernatural | similar
+20:57:51 |    (incompleta, no la guardo) Crimewave
+20:57:53 | [253/700] Evil Dead II (1987) | Comedy, Horror, Fantasy, Dark Fantasy | similar
+20:57:55 | [254/700] Darkman (1990) | Superhero, Science Fiction, Action, Thriller | similar
+20:57:57 | [255/700] Army of Darkness (1992) | Comedy, Horror, Dark Fantasy, Adventure | similar
+20:57:59 | [256/700] The Quick and the Dead (1995) | Western | similar
+20:58:01 | [257/700] A Simple Plan (1998) | Drama, Crime, Thriller, Neo-noir | similar
+20:58:03 | [258/700] For Love of the Game (1999) | Sports, Drama | similar
+20:58:05 | [259/700] The Gift (2000) | Horror, Drama, Thriller, Mystery | similar
+20:58:06 | [260/700] Drag Me to Hell (2009) | Comedy, Horror, Supernatural | similar
+20:58:06 |    -- avance guardado | 640 páginas en 24.5 min | cola: 9925 --
+20:58:10 | [261/700] Oz the Great and Powerful (2013) | Adventure, Fantasy | similar
+20:58:12 | [262/700] Send Help (2026) | Psychological, Horror, Thriller | similar
+20:58:13 |    (incompleta, no la guardo) Easy Wheels
+20:58:15 | [263/700] The Nutt House (1992) | Comedy, Fantasy, Parody | similar
+20:58:17 | [264/700] The Hudsucker Proxy (1994) | Comedy-drama, Comedy, Christmas | similar
+20:58:19 | [265/700] Man with the Screaming Brain (2005) | Science Fiction, Comedy | similar
+20:58:21 | [266/700] Timecop (1994) | Martial Arts, Science Fiction, Action | similar
+20:58:23 | [267/700] The Grudge (2004) | Supernatural, Thriller, Horror | similar
+20:58:25 | [268/700] Boogeyman (2005) | Horror, Supernatural | similar
+20:58:27 | [269/700] The Grudge 2 (2006) | Psychological, Horror, Supernatural | similar
+20:58:28 |    -- avance guardado | 650 páginas en 24.9 min | cola: 10192 --
+20:58:30 | [270/700] The Messengers (2007) | Horror, Supernatural, Teen | similar
+20:58:32 | [271/700] 30 Days of Night (2007) | Action, Horror, Supernatural, Vampire | similar
+20:58:33 | [272/700] The Possession (2012) | Horror, Supernatural | similar
+20:58:36 | [273/700] Evil Dead (2013) | Supernatural, Horror, Dark Fantasy | similar
+20:58:37 | [274/700] Murder of a Cat (2014) | Black Comedy, Comedy-drama, Thriller, Comedy | similar
+20:58:41 | [275/700] Poltergeist (2015) | Supernatural, Horror | similar
+20:58:48 | [276/700] Don't Breathe (2016) | Thriller, Crime, Horror | similar
+20:58:53 | [277/700] Crawl (2019) | Horror | similar
+20:58:56 | [278/700] The Grudge (2019) | Supernatural, Horror | similar
+20:58:59 | [279/700] The Unholy (2021) | Supernatural, Horror | similar
+20:58:59 |    -- avance guardado | 660 páginas en 25.4 min | cola: 10323 --
+20:59:02 | [280/700] Don't Breathe 2 (2021) | Thriller, Action, Crime, Horror | similar
+20:59:03 | [281/700] Nightbooks (2021) | Fantasy, Supernatural, Horror, Dark Fantasy | similar
+20:59:06 | [282/700] Umma (2022) | Supernatural, Horror | similar
+20:59:08 | [283/700] 65 (2023) | Thriller, Action, Science Fiction, Adventure | similar
+20:59:11 | [284/700] Boy Kills World (2023) | Action, Comedy, Thriller, Dystopian | similar
+20:59:11 | [285/700] Don ' t Move (2024) | Thriller | similar
+20:59:13 | [286/700] Locked (2025) | Thriller, Action, Crime | similar
+20:59:15 | [287/700] Evil Dead Burn (2026) | Supernatural, Horror | similar
+20:59:17 |    (incompleta, no la guardo) Crawl 2
+20:59:18 |    (incompleta, no la guardo) Evil Dead Wrath
+20:59:18 |    -- avance guardado | 670 páginas en 25.7 min | cola: 10330 --
+20:59:23 | [288/700] The Trigger Effect (1996) | Psychological, Thriller, Disaster | similar
+20:59:25 | [289/700] Stir of Echoes (1999) | Horror, Thriller, Supernatural | similar
+20:59:28 | [290/700] Secret Window (2004) | Thriller | similar
+20:59:29 | [291/700] Ghost Town (2008) | Fantasy, Comedy, Supernatural | similar
+20:59:31 | [292/700] Premium Rush (2012) | Thriller, Action | similar
+20:59:32 | [293/700] Mortdecai (2015) | Action, Comedy, Heist, Spy | similar
+20:59:34 | [294/700] You Should Have Left (2020) | Thriller, Horror, Psychological | similar
+20:59:36 | [295/700] Apartment Zero (1988) | Psychological, Thriller, War, Political | similar
+20:59:38 | [296/700] Bad Influence (1990) | Psychological, Thriller, Neo-noir | similar
+20:59:39 |    -- avance guardado | 680 páginas en 26.1 min | cola: 10446 --
+20:59:42 | [297/700] I Come in Peace (1990) | Buddy, Science Fiction, Action, Crime | similar
+20:59:44 | [298/700] Toy Soldiers (1991) | Action, Drama, Thriller | similar
+20:59:46 | [299/700] Death Becomes Her (1992) | Fantasy, Comedy, Satire, Black Comedy | similar
+20:59:48 | [300/700] Carlito's Way (1993) | Drama, Crime | similar
+20:59:49 | [301/700] The Paper (1994) | Comedy-drama | similar
+20:59:51 | [302/700] The Shadow (1994) | Action, Superhero, Mystery, Neo-noir | similar
+20:59:52 | [303/700] Snake Eyes (1998) | Thriller, Crime | similar
+20:59:54 | [304/700] Panic Room (2002) | Thriller, Crime, Psychological | similar
+20:59:57 | [305/700] War of the Worlds (2005) | Thriller, Action, Science Fiction, Adventure | similar
+20:59:57 |    -- avance guardado | 690 páginas en 26.4 min | cola: 10540 --
+20:59:59 | [306/700] Angels & Demons (2009) | Thriller, Crime, Mystery | similar
+21:00:01 | [307/700] The Little Engine That Could (2011) | Animation, Adventure | similar
+21:00:03 | [308/700] Inferno (2016) | Thriller, Action, Mystery, Crime | similar
+21:00:05 | [309/700] The Mummy (2017) | Fantasy, Action, Adventure | similar
+21:00:06 | [310/700] Kimi (2022) | Thriller | similar
+21:00:10 | [311/700] Presence (2024) | Drama, Mystery, Thriller, Supernatural | similar
+21:00:13 | [312/700] Black Bag (2025) | Thriller, Spy | similar
+21:00:14 | [313/700] Jurassic World Rebirth (2025) | Science Fiction, Adventure, Action, Thriller | similar
+21:00:16 | [314/700] Cold Storage (2026) | Comedy, Horror | similar
+21:00:18 | [315/700] Disclosure Day (2026) | Science Fiction | similar
+21:00:18 |    -- avance guardado | 700 páginas en 26.7 min | cola: 10684 --
+21:00:21 | [316/700] My Girl (1991) | Coming-of-age, Comedy-drama, Romance, Drama | similar
+21:00:22 | [317/700] Untamed Heart (1993) | Romance, Drama | similar
+21:00:24 | [318/700] Dumb and Dumber (1994) | Comedy, Buddy | similar
+21:00:28 | [319/700] Species (1995) | Science Fiction, Horror, Thriller, Action | similar
+21:00:28 | [320/700] The Wedding Singer (1998) | Romance, Comedy | similar
+21:00:32 | [321/700] Shakespeare in Love (1998) | Comedy-drama, Romance, Historical | similar
+21:00:33 | [322/700] Cruel Intentions (1999) | Romance, Drama, Teen | similar
+21:00:35 | [323/700] Save the Last Dance (2001) | Romance, Teen, Drama, Musical | similar
+21:00:37 | [324/700] American Pie 2 (2001) | Comedy, Buddy, Teen | similar
+21:00:37 |    -- avance guardado | 710 páginas en 27.0 min | cola: 11079 --
+21:00:39 | [325/700] Starsky & Hutch (2004) | Buddy, Comedy, Action, Crime | similar
+21:00:42 | [326/700] The Notebook (2004) | Romance, Drama, Coming-of-age, Historical | similar
+21:00:44 | [327/700] Brokeback Mountain (2005) | Romance, Drama, Western | similar
+21:00:46 | [328/700] Twilight (2008) | Adventure, Fantasy, Romance, Teen | similar
+21:00:50 | [329/700] Silver Linings Playbook (2012) | Comedy-drama, Romance | similar
+21:00:50 | [330/700] We're the Millers (2013) | Black Comedy, Comedy, Crime | similar
+21:00:52 | [331/700] The Fault in Our Stars (2014) | Coming-of-age, Drama, Teen, Romance | similar
+21:00:55 | [332/700] Pitch Perfect 2 (2015) | Buddy, Musical, Comedy, Teen | similar
+21:00:58 | [333/700] Moonlight (2016) | Coming-of-age, Drama, Crime | similar
+21:00:59 | [334/700] Love, Simon (2018) | Comedy-drama, Romance, Coming-of-age, Teen | similar
+21:00:59 |    -- avance guardado | 720 páginas en 27.4 min | cola: 11520 --
+21:01:01 | [335/700] To All the Boys I've Loved Before (2018) | Romance, Comedy, Teen | similar
+21:01:04 | [336/700] Jackass Forever (2022) | Black Comedy | similar
+21:01:06 | [337/700] The Sixth Sense (1999) | Psychological, Thriller, Supernatural, Teen | similar
+21:01:08 | [338/700] Pearl Harbor (2001) | Romance, Drama, War, Teen | similar
+21:01:10 | [339/700] Harry Potter and the Goblet of Fire (2005) | Adventure, Fantasy, Mystery, Teen | similar
+21:01:12 | [340/700] The Pursuit of Happyness (2006) | Biographical, Drama, Teen | similar
+21:01:14 | [341/700] The Blind Side (2009) | Sports, Drama, Biographical, Teen | similar
+21:01:15 | [342/700] Black Swan (2010) | Thriller, Horror, Psychological, Drama | similar
+21:01:17 | [343/700] The Lucky One (2012) | Romance, Drama, War, Teen | similar
+21:01:17 |    -- avance guardado | 730 páginas en 27.7 min | cola: 11748 --
+21:01:19 | [344/700] The Perks of Being a Wallflower (2012) | Romance, Drama, Coming-of-age, Teen | similar
+21:01:21 | [345/700] If I Stay (2014) | Supernatural, Drama, Teen, Romance | similar
+21:01:23 | [346/700] Miracles from Heaven (2016) | Drama, Teen | similar
+21:01:26 | [347/700] Everything, Everything (2017) | Drama, Teen, Romance | similar
+21:01:28 | [348/700] The Greatest Showman (2017) | Biographical, Drama, Musical, Teen | similar
+21:01:29 | [349/700] After (2019) | Romance, Drama, Teen | similar
+21:01:32 | [350/700] Grease (1978) | Musical, Comedy, Romance, Teen | similar
+21:01:33 | [351/700] Kramer vs. Kramer (1979) | Drama | similar
+21:01:35 | [352/700] Beverly Hills Cop (1984) | Action, Comedy, Crime, Buddy | similar
+21:01:36 | [353/700] Top Gun (1986) | Action, Drama, Adventure, War | similar
+21:01:37 |    -- avance guardado | 740 páginas en 28.0 min | cola: 11911 --
+21:01:39 | [354/700] Three Men and a Baby (1987) | Comedy | similar
+21:01:41 | [355/700] Rain Man (1988) | Drama, Comedy-drama, Buddy | similar
+21:01:43 | [356/700] Batman (1989) | Superhero, Adventure, Action | similar
+21:01:45 | [357/700] Home Alone (1990) | Comedy, Christmas, Crime | similar
+21:01:47 | [358/700] Aladdin (1992) | Adventure, Comedy, Animation, Fantasy | similar
+21:01:48 | [359/700] Forrest Gump (1994) | Coming-of-age, Comedy-drama, Comedy, War | MARVEL
+21:01:51 | [360/700] Toy Story (1995) | Adventure, Comedy, Animation, Buddy | similar
+21:01:53 | [361/700] Titanic (1997) | Adventure, Romance, Drama, Disaster | similar
+21:01:55 | [362/700] Saving Private Ryan (1998) | Action, Drama, War | similar
+21:01:57 | [363/700] How the Grinch Stole Christmas (2000) | Comedy, Fantasy, Christmas, Teen | similar
+21:01:57 |    -- avance guardado | 750 páginas en 28.4 min | cola: 12741 --
+21:02:00 | [364/700] Harry Potter and the Philosopher's Stone (2001) | Fantasy, Adventure, Teen | similar
+21:02:02 | [365/700] Shrek 2 (2004) | Adventure, Animation, Comedy, Fantasy | similar
+21:02:04 | [366/700] Toy Story 3 (2010) | Animation, Comedy, Drama, Fantasy | similar
+21:02:06 | [367/700] Harry Potter and the Deathly Hallows – Part 2 (2011) | Fantasy, Teen | similar
+21:02:08 | [368/700] American Sniper (2014) | Action, Drama, Biographical, War | similar
+21:02:10 | [369/700] Bad Boys for Life (2020) | Action, Comedy, Buddy, Crime | similar
+21:02:13 | [370/700] Barbie (2023) | Satire, Adventure, Comedy, Fantasy | similar
+21:02:14 | [371/700] Inside Out 2 (2024) | Coming-of-age, Comedy-drama, Fantasy, Teen | similar
+21:02:16 | [372/700] Zootopia 2 (2025) | Buddy, Comedy, Animation | similar
+21:02:17 |    -- avance guardado | 760 páginas en 28.7 min | cola: 12974 --
+21:02:30 | [373/700] Simon Birch (1998) | Comedy-drama, Buddy, Coming-of-age | similar
+21:02:32 | [374/700] When in Rome (2010) | Romance, Comedy | similar
+21:02:34 | [375/700] Love in the Villa (2022) | Romance, Comedy | similar
+21:02:35 | [376/700] Champagne Problems (2025) | Romance, Comedy | similar
+21:02:35 |    -- avance guardado | 770 páginas en 29.0 min | cola: 12988 --
+21:02:37 | [377/700] Killing Season (2013) | Thriller, Action, War | similar
+21:02:40 | [378/700] Finding Steve McQueen (2019) | Thriller, Crime, Heist | similar
+21:02:42 | [379/700] Love, Guaranteed (2020) | Romance, Comedy | similar
+21:02:44 | [380/700] Grumpy Old Men (1993) | Romance, Comedy, Buddy | similar
+21:02:46 | [381/700] Grumpier Old Men (1995) | Romance, Comedy, Buddy | similar
+21:02:47 | [382/700] Big Bully (1996) | Black Comedy, Comedy, Buddy | similar
+21:02:50 | [383/700] Jack Frost (1998) | Comedy-drama, Fantasy, Christmas | similar
+21:02:53 | [384/700] Christopher Robin (2018) | Comedy-drama, Adventure, Animation, Fantasy | similar
+21:02:53 |    (incompleta, no la guardo) Incident at Loch Ness
+21:02:55 |    (incompleta, no la guardo) The Grand
+21:02:56 |    -- avance guardado | 780 páginas en 29.4 min | cola: 13232 --
+21:02:58 | [385/700] Last Action Hero (1993) | Action, Comedy, Buddy, Fantasy | similar
+21:03:00 | [386/700] PCU (1994) | Comedy | similar
+21:03:01 | [387/700] Inspector Gadget (1999) | Action, Comedy, Science Fiction, Superhero | similar
+21:03:03 | [388/700] Behind Enemy Lines (2001) | Action, Drama, War | similar
+21:03:04 | [389/700] Suspect Zero (2004) | Psychological, Thriller | similar
+21:03:06 | [390/700] Free Guy (2021) | Action, Comedy, Science Fiction | similar
+21:03:07 |    (incompleta, no la guardo) The Beekeeper 2
+21:03:13 |    -- avance guardado | 790 páginas en 29.7 min | cola: 13272 --
+21:03:16 | [391/700] Pushing Hands (1991) | Comedy-drama, Martial Arts | similar
+21:03:18 | [392/700] The Wedding Banquet (1993) | Romance, Comedy | similar
+21:03:20 | [393/700] Eat Drink Man Woman (1994) | Comedy-drama, Romance | similar
+21:03:22 | [394/700] Sense and Sensibility (1995) | Romance, Drama, Historical | similar
+21:03:23 | [395/700] The Ice Storm (1997) | Drama | similar
+21:03:25 | [396/700] Ride with the Devil (1999) | Western, War, Historical, Drama | similar
+21:03:28 | [397/700] Crouching Tiger, Hidden Dragon (2000) | Fantasy, Martial Arts, Adventure, Historical | similar
+21:03:30 | [398/700] Lust, Caution (2007) | Thriller, Spy, War | similar
+21:03:31 | [399/700] Taking Woodstock (2009) | Comedy-drama, Political | similar
+21:03:34 | [400/700] Life of Pi (2012) | Adventure, Drama | similar
+21:03:34 |    -- avance guardado | 800 páginas en 30.0 min | cola: 13625 --
+21:03:36 | [401/700] Billy Lynn's Long Halftime Walk (2016) | Drama, War | similar
+21:03:38 | [402/700] Gemini Man (2019) | Thriller, Action, Crime, Science Fiction | similar
+21:03:53 |    -- avance guardado | 810 páginas en 30.3 min | cola: 13665 --
+21:04:13 |    -- avance guardado | 820 páginas en 30.6 min | cola: 13655 --
+21:04:32 |    -- avance guardado | 830 páginas en 31.0 min | cola: 13645 --
+21:04:47 |    (incompleta, no la guardo) Welcome to the Jungle
+21:04:49 | [403/700] Kill the Irishman (2011) | Thriller, Crime, Biographical | similar
+21:04:50 | [404/700] The Ice Road (2021) | Thriller, Action | similar
+21:04:53 |    -- avance guardado | 840 páginas en 31.3 min | cola: 13639 --
+21:05:12 |    -- avance guardado | 850 páginas en 31.6 min | cola: 13629 --
+21:05:19 | [405/700] John Carter (2012) | Fantasy, Science Fiction, Western, Adventure | similar
+21:05:23 | [406/700] Cleopatra (1963) | Biographical, Drama, Historical, Romance | similar
+21:05:25 | [407/700] Mary Poppins (1964) | Fantasy, Musical, Comedy, Animation | similar
+21:05:26 |    (incompleta, no la guardo) Thunderball
+21:05:28 | [408/700] Fantastic Voyage (1966) | Science Fiction, Action, Adventure, War | similar
+21:05:30 | [409/700] Doctor Dolittle (1967) | Musical, Comedy, Fantasy | similar
+21:05:32 | [410/700] Marooned (1969) | Science Fiction, Thriller, Adventure | similar
+21:05:32 |    -- avance guardado | 860 páginas en 32.0 min | cola: 13942 --
+21:05:35 | [411/700] Tora! Tora! Tora! (1970) | War, Historical | similar
+21:05:37 | [412/700] Bedknobs and Broomsticks (1971) | Musical, Adventure, Animation, Fantasy | similar
+21:05:39 | [413/700] The Poseidon Adventure (1972) | Disaster, Thriller, Adventure, Drama | similar
+21:05:41 | [414/700] Earthquake (1974) | Disaster, Thriller, Drama | similar
+21:05:43 | [415/700] The Hindenburg (1975) | Drama, Adventure, Disaster | similar
+21:05:46 | [416/700] King Kong (1976) | Horror, Science Fiction, Adventure, Fantasy | similar
+21:05:47 | [417/700] Cocoon (1985) | Comedy-drama, Fantasy, Science Fiction | similar
+21:05:49 | [418/700] Innerspace (1987) | Science Fiction, Comedy | similar
+21:05:53 | [419/700] Who Framed Roger Rabbit (1988) | Comedy, Crime, Animation, Fantasy | similar
+21:05:54 | [420/700] The Abyss (1989) | Science Fiction, Adventure, Thriller, Action | similar
+21:05:54 |    -- avance guardado | 870 páginas en 32.3 min | cola: 15716 --
+21:05:59 | [421/700] Babe (1995) | Comedy-drama, Comedy, Drama, Coming-of-age | similar
+21:06:01 | [422/700] What Dreams May Come (1998) | Romance, Drama, Fantasy | similar
+21:06:03 | [423/700] Gladiator (2000) | Action, Drama, Adventure, Historical | similar
+21:06:04 | [424/700] King Kong (2005) | Adventure, Action | similar
+21:06:06 | [425/700] The Golden Compass (2007) | Adventure, Fantasy | similar
+21:06:07 | [426/700] The Curious Case of Benjamin Button (2008) | Fantasy, Drama, Historical, Romance | similar
+21:06:09 | [427/700] Hugo (2011) | Drama, Adventure, Mystery | similar
+21:06:11 | [428/700] Ex Machina (2014) | Psychological, Thriller, Science Fiction, Dystopian | similar
+21:06:13 | [429/700] The Jungle Book (2016) | Adventure, Drama, Coming-of-age, Fantasy | similar
+21:06:15 | [430/700] First Man (2018) | Historical, Biographical, Drama, Adventure | similar
+21:06:15 |    -- avance guardado | 880 páginas en 32.7 min | cola: 16161 --
+21:06:18 | [431/700] 1917 (2019) | Action, Drama, War, Historical | similar
+21:06:20 | [432/700] Tenet (2020) | Thriller, Action, Science Fiction, Spy | similar
+21:06:22 | [433/700] Dune (2021) | Adventure, Science Fiction | similar
+21:06:25 | [434/700] Godzilla Minus One (2023) | Action, Horror, Science Fiction, Historical | similar
+21:06:25 | [435/700] The Golden Voyage of Sinbad (1973) | Adventure, Fantasy, Science Fiction | similar
+21:06:27 |    (incompleta, no la guardo) The Holes
+21:06:29 | [436/700] Oh, God! (1977) | Fantasy, Comedy | similar
+21:06:31 | [437/700] Heaven Can Wait (1978) | Fantasy, Comedy, Romance, Sports | similar
+21:06:33 | [438/700] The Muppet Movie (1979) | Musical, Comedy, Adventure | similar
+21:06:36 | [439/700] Somewhere in Time (1980) | Romance, Drama, Fantasy | similar
+21:06:36 |    -- avance guardado | 890 páginas en 33.0 min | cola: 16602 --
+21:06:39 | [440/700] The Dark Crystal (1982) | Adventure, Fantasy, Dark Fantasy | similar
+21:06:40 | [441/700] Something Wicked This Way Comes (1983) | Fantasy, Dark Fantasy, Supernatural, Thriller | similar
+21:06:43 | [442/700] Ghostbusters (1984) | Comedy, Horror, Fantasy, Supernatural | similar
+21:06:44 | [443/700] Ladyhawke (1985) | Drama, Romance, Fantasy, Adventure | similar
+21:06:46 | [444/700] The Boy Who Could Fly (1986) | Drama, Coming-of-age, Fantasy, Teen | similar
+21:06:54 | [445/700] The Princess Bride (1987) | Romance, Comedy, Adventure, Fantasy | similar
+21:06:55 | [446/700] Ghost (1990) | Romance, Drama, Fantasy, Supernatural | similar
+21:06:57 | [447/700] Edward Scissorhands (1990) | Fantasy, Romance, Drama | similar
+21:07:00 | [448/700] The Nightmare Before Christmas (1993) | Fantasy, Christmas, Horror, Dark Fantasy | similar
+21:07:01 | [449/700] Dragonheart (1996) | Adventure, Fantasy, Action, Buddy | similar
+21:07:02 |    -- avance guardado | 900 páginas en 33.5 min | cola: 16990 --
+21:07:04 | [450/700] The Truman Show (1998) | Comedy-drama, Psychological, Drama, Satire | similar
+21:07:06 | [451/700] Being John Malkovich (1999) | Comedy-drama, Fantasy, Comedy | similar
+21:07:07 | [452/700] Frequency (2000) | Science Fiction, Thriller | similar
+21:07:10 | [453/700] Enchanted (2007) | Musical, Romance, Comedy, Fantasy | similar
+21:07:12 | [454/700] Watchmen (2009) | Superhero, Science Fiction, Action, Dystopian | similar
+21:07:14 | [455/700] Alice in Wonderland (2010) | Adventure, Fantasy, Teen | similar
+21:07:15 | [456/700] Her (2013) | Romance, Drama, Science Fiction | similar
+21:07:16 | [457/700] Cinderella (2015) | Fantasy, Romance | similar
+21:07:19 | [458/700] Toy Story 4 (2019) | Animation, Comedy | similar
+21:07:22 | [459/700] Once Upon a Time... in Hollywood (2019) | Black Comedy, Comedy-drama, Satire | similar
+21:07:23 |    -- avance guardado | 910 páginas en 33.8 min | cola: 17439 --
+21:07:27 | [460/700] Everything Everywhere All at Once (2022) | Comedy-drama, Action, Martial Arts, Comedy | similar
+21:07:28 | [461/700] Beetlejuice Beetlejuice (2024) | Dark Fantasy, Comedy, Horror, Supernatural | similar
+21:07:30 | [462/700] Airborne (1993) | Comedy-drama, Comedy, Teen | similar
+21:07:32 | [463/700] The X-Files (1998) | Science Fiction, Action, Horror | similar
+21:07:33 | [464/700] Reign of Fire (2002) | Disaster, Fantasy, Science Fiction, Thriller | similar
+21:07:44 |    -- avance guardado | 920 páginas en 34.2 min | cola: 17485 --
+21:07:54 |    (incompleta, no la guardo) One of Us Tripped
+21:07:57 |    (incompleta, no la guardo) The Firing Squad
+21:08:00 | [465/700] Barbershop (2002) | Comedy | similar
+21:08:02 | [466/700] Taxi (2004) | Comedy, Buddy, Heist, Action | similar
+21:08:03 |    (incompleta, no la guardo) Hurricane Season
+21:08:06 | [467/700] Think Like a Man (2012) | Romance, Comedy | similar
+21:08:07 |    -- avance guardado | 930 páginas en 34.5 min | cola: 17562 --
+21:08:08 | [468/700] Ride Along (2014) | Buddy, Comedy, Action, Crime | similar
+21:08:11 | [469/700] Think Like a Man Too (2014) | Romance, Comedy | similar
+21:08:14 | [470/700] Ride Along 2 (2016) | Action, Comedy, Buddy, Teen | similar
+21:08:15 | [471/700] Shaft (2019) | Buddy, Action, Comedy, Thriller | similar
+21:08:18 | [472/700] Tom and Jerry (2021) | Adventure, Comedy, Animation, Action | similar
+21:08:20 | [473/700] The Blackening (2022) | Parody, Slasher, Comedy, Horror | similar
+21:08:22 | [474/700] Dashing Through the Snow (2023) | Christmas, Comedy, Fantasy | similar
+21:08:24 | [475/700] The Pickup (2025) | Heist, Action, Comedy, Crime | similar
+21:08:26 | [476/700] 72 Hours (2026) | Comedy | similar
+21:08:27 |    (incompleta, no la guardo) A Girl Called Rosemary
+21:08:28 |    -- avance guardado | 940 páginas en 34.9 min | cola: 17726 --
+21:08:31 |    (incompleta, no la guardo) Grete Minde
+21:08:32 |    (incompleta, no la guardo) Die Konsequenz
+21:08:34 |    (incompleta, no la guardo) The Glass Cell
+21:08:36 | [477/700] Christiane F. (1981) | Biographical, Drama, Coming-of-age, Teen | similar
+21:08:37 | [478/700] The NeverEnding Story (1984) | Adventure, Fantasy | similar
+21:08:39 | [479/700] The Name of the Rose (1986) | Drama, Crime, Historical, Thriller | similar
+21:08:41 | [480/700] Der Unsichtbare (1987) | Fantasy, Comedy | similar
+21:08:43 | [481/700] Me and Him (1988) | Comedy | similar
+21:08:45 | [482/700] Last Exit to Brooklyn (1989) | Drama | similar
+21:08:46 |    (incompleta, no la guardo) Fire, Ice and Dynamite
+21:08:47 |    -- avance guardado | 950 páginas en 35.2 min | cola: 17910 --
+21:08:49 | [483/700] Werner – Beinhart! (1990) | Animation, Comedy | similar
+21:08:51 | [484/700] Manta, Manta (1991) | Action, Comedy | similar
+21:08:54 | [485/700] Salt on Our Skin (1992) | Romance, Drama | similar
+21:08:56 | [486/700] The House of the Spirits (1993) | War, Drama, Historical | similar
+21:08:58 | [487/700] Der bewegte Mann (1994) | Comedy | similar
+21:08:59 | [488/700] The Superwife (1996) | Comedy | similar
+21:09:02 | [489/700] Smilla's Sense of Snow (1997) | Drama, Thriller, Mystery, Crime | similar
+21:09:04 | [490/700] Prince Valiant (1997) | Action, Fantasy, Adventure | similar
+21:09:05 | [491/700] Wrongfully Accused (1998) | Thriller, Comedy, Parody | similar
+21:09:08 |    (incompleta, no la guardo) Ants in the Pants
+21:09:08 |    -- avance guardado | 960 páginas en 35.6 min | cola: 18018 --
+21:09:10 |    (incompleta, no la guardo) The Mists of Avalon
+21:09:12 |    (incompleta, no la guardo) 666 – Traue keinem, mit dem du schläfst!
+21:09:14 |    (incompleta, no la guardo) Naked
+21:09:16 | [492/700] Resident Evil (2002) | Action, Horror, Science Fiction, Zombie | similar
+21:09:19 | [493/700] Downfall (2004) | Biographical, Drama, Historical, War | similar
+21:09:19 | [494/700] Atomised (2006) | Drama | similar
+21:09:22 |    (incompleta, no la guardo) Pornorama
+21:09:23 | [495/700] The Baader Meinhof Complex (2008) | Biographical, Drama, Political, Thriller | similar
+21:09:25 |    (incompleta, no la guardo) Zeiten ändern dich
+21:09:27 |    (incompleta, no la guardo) 3096 Days
+21:09:28 |    -- avance guardado | 970 páginas en 35.9 min | cola: 18226 --
+21:09:48 |    -- avance guardado | 980 páginas en 36.2 min | cola: 18216 --
+21:10:06 |    -- avance guardado | 990 páginas en 36.5 min | cola: 18206 --
+21:10:27 |    -- avance guardado | 1000 páginas en 36.9 min | cola: 18196 --
+21:10:43 | [496/700] Werewolf by Night (s/f) | Action, Horror, Dark Fantasy, Superhero | MARVEL
+21:10:49 |    -- avance guardado | 1010 páginas en 37.2 min | cola: 18234 --
+21:11:11 |    -- avance guardado | 1020 páginas en 37.6 min | cola: 18224 --
+21:11:31 |    -- avance guardado | 1030 páginas en 37.9 min | cola: 18214 --
+21:11:51 |    -- avance guardado | 1040 páginas en 38.3 min | cola: 18204 --
+21:11:57 | [497/700] The Good, the Bart, and the Loki (2021) | Animation, Comedy | MARVEL
+21:11:59 | [498/700] Made (2001) | Comedy-drama, Crime | similar
+21:12:01 | [499/700] Elf (2003) | Adventure, Comedy, Christmas, Fantasy | similar
+21:12:04 | [500/700] Cowboys & Aliens (2011) | Science Fiction, Western, Action, Adventure | similar
+21:12:05 | [501/700] Chef (2014) | Comedy-drama | similar
+21:12:09 | [502/700] The Lion King (2019) | Adventure, Drama, Animation, Coming-of-age | similar
+21:12:15 | [503/700] Swingers (1996) | Comedy-drama, Romance, Buddy | similar
+21:12:17 | [504/700] Couples Retreat (2009) | Romance, Comedy | similar
+21:12:17 |    -- avance guardado | 1050 páginas en 38.7 min | cola: 18451 --
+21:12:25 | [505/700] Shrek (2001) | Adventure, Comedy, Animation, Fantasy | similar
+21:12:28 | [506/700] Spirited Away (2001) | Animation, Fantasy, Coming-of-age, Adventure | similar
+21:12:29 | [507/700] School of Rock (2003) | Comedy | similar
+21:12:32 | [508/700] The Incredibles (2004) | Animation, Superhero | similar
+21:12:32 | [509/700] Lassie (2005) | Historical, Comedy-drama, Adventure | similar
+21:12:36 | [510/700] Star Trek (2009) | Science Fiction, Action, Adventure | similar
+21:12:36 | [511/700] The Karate Kid (2010) | Action, Drama, Martial Arts, Coming-of-age | similar
+21:12:37 |    -- avance guardado | 1060 páginas en 39.0 min | cola: 18707 --
+21:12:39 | [512/700] The Muppets (2011) | Comedy, Musical, Adventure, Satire | similar
+21:12:41 | [513/700] Moonrise Kingdom (2012) | Coming-of-age, Comedy-drama, Romance | similar
+21:12:43 | [514/700] Saving Mr. Banks (2013) | Biographical, Drama, Historical, Comedy-drama | similar
+21:12:45 | [515/700] The Lego Movie (2014) | Animation, Adventure, Comedy, Action | similar
+21:12:47 | [516/700] Inside Out (2015) | Coming-of-age, Comedy-drama, Fantasy, Animation | similar
+21:12:48 | [517/700] Kubo and the Two Strings (2016) | Adventure, Fantasy, Animation, Action | similar
+21:12:49 | [518/700] The Transporter (2002) | Thriller, Action, Crime | similar
+21:12:52 | [519/700] Unleashed (2005) | Thriller, Action, Martial Arts | similar
+21:12:54 | [520/700] Transporter 2 (2005) | Thriller, Action | similar
+21:12:56 | [521/700] Clash of the Titans (2010) | Adventure, Action, Fantasy | similar
+21:12:56 |    -- avance guardado | 1070 páginas en 39.4 min | cola: 18833 --
+21:12:58 | [522/700] Now You See Me (2013) | Heist, Thriller, Crime | similar
+21:13:00 | [523/700] Grimsby (2016) | Action, Comedy, Spy, Sports | similar
+21:13:02 |    (incompleta, no la guardo) The Takedown
+21:13:04 | [524/700] Fast X (2023) | Thriller, Action | similar
+21:13:05 | [525/700] The Last House (2026) | Science Fiction, Horror | similar
+21:13:10 | [526/700] The Hunger Games (2012) | Science Fiction, Action, Drama, Thriller | similar
+21:13:11 | [527/700] Divergent (2014) | Science Fiction, Action, Adventure, Dystopian | similar
+21:13:14 | [528/700] Furious 7 (2015) | Thriller, Action, Heist, Teen | similar
+21:13:16 | [529/700] Mulan (2020) | Action, Drama, Fantasy, Adventure | similar
+21:13:17 |    -- avance guardado | 1080 páginas en 39.7 min | cola: 18920 --
+21:13:25 | [530/700] Henry V (1989) | Historical, Drama, War | similar
+21:13:27 | [531/700] Dead Again (1991) | Thriller, Mystery, Romance | similar
+21:13:29 | [532/700] Peter's Friends (1992) | Romance, Comedy | similar
+21:13:31 | [533/700] Much Ado About Nothing (1993) | Romance, Comedy | similar
+21:13:33 | [534/700] Mary Shelley ' s Frankenstein (1994) | Science Fiction, Horror, Historical, Romance | similar
+21:13:35 | [535/700] In the Bleak Midwinter (1995) | Romance, Comedy | similar
+21:13:35 |    -- avance guardado | 1090 páginas en 40.0 min | cola: 18985 --
+21:13:37 | [536/700] Hamlet (1996) | Historical, Drama, Romance | similar
+21:13:37 | [537/700] Love's Labour's Lost (2000) | Musical, Romance, Comedy | similar
+21:13:39 | [538/700] As You Like It (2006) | Historical, Comedy | similar
+21:13:41 | [539/700] The Magic Flute (2006) | Fantasy, Musical | similar
+21:13:43 | [540/700] Sleuth (2007) | Mystery, Psychological, Thriller | similar
+21:13:45 | [541/700] Murder on the Orient Express (2017) | Mystery, Thriller | similar
+21:13:47 | [542/700] All Is True (2018) | Biographical, Historical | similar
+21:13:48 | [543/700] Artemis Fowl (2020) | Science Fiction, Fantasy | similar
+21:13:51 | [544/700] Belfast (2021) | Comedy-drama | similar
+21:13:53 | [545/700] Death on the Nile (2022) | Thriller, Crime, Mystery, Adventure | similar
+21:13:53 |    -- avance guardado | 1100 páginas en 40.3 min | cola: 19239 --
+21:13:54 | [546/700] A Haunting in Venice (2023) | Thriller, Mystery, Supernatural | similar
+21:13:59 |    (incompleta, no la guardo) Swan Song
+21:14:01 |    (incompleta, no la guardo) Listening
+21:14:04 |    (incompleta, no la guardo) Twelfth Night
+21:14:06 | [547/700] Stardust (2007) | Adventure, Fantasy, Romance, Supernatural | similar
+21:14:08 | [548/700] Wanted (2008) | Thriller, Action | similar
+21:14:10 | [549/700] Harry Potter and the Deathly Hallows – Part 1 (2010) | Adventure, Fantasy, Teen | similar
+21:14:12 | [550/700] A Monster Calls (2016) | Fantasy, Drama, Dark Fantasy, Monster | similar
+21:14:14 | [551/700] Wonder Woman (2017) | Fantasy, Action, Adventure, Science Fiction | similar
+21:14:15 |    -- avance guardado | 1110 páginas en 40.7 min | cola: 19483 --
+21:14:18 | [552/700] Changeling (2008) | Drama, Crime, Thriller | similar
+21:14:18 | [553/700] Ninja Assassin (2009) | Martial Arts, Action, Fantasy | similar
+21:14:21 | [554/700] World War Z (2013) | Action, Horror, Thriller, Zombie | similar
+21:14:23 |    (incompleta, no la guardo) Watchmen
+21:14:32 |    -- avance guardado | 1120 páginas en 41.0 min | cola: 19515 --
+21:14:55 |    -- avance guardado | 1130 páginas en 41.3 min | cola: 19505 --
+21:15:13 |    -- avance guardado | 1140 páginas en 41.6 min | cola: 19495 --
+21:15:27 | [555/700] Serenity (2005) | Science Fiction, Action, Western, Adventure | similar
+21:15:29 | [556/700] Much Ado About Nothing (2012) | Romance, Comedy | similar
+21:15:31 | [557/700] Buffy the Vampire Slayer (1992) | Action, Comedy, Black Comedy, Horror | similar
+21:15:33 | [558/700] Alien Resurrection (1997) | Science Fiction, Horror | similar
+21:15:35 | [559/700] Titan A.E. (2000) | Animation, Science Fiction, Dystopian, Post-apocalyptic | similar
+21:15:36 |    -- avance guardado | 1150 páginas en 42.0 min | cola: 19582 --
+21:15:38 | [560/700] The Cabin in the Woods (2011) | Satire, Fantasy, Comedy, Teen | similar
+21:15:40 | [561/700] In Your Eyes (2014) | Romance, Drama, Fantasy | similar
+21:15:43 | [562/700] Justice League (2017) | Superhero, Science Fiction, Action, Adventure | similar
+21:15:55 |    -- avance guardado | 1160 páginas en 42.3 min | cola: 19583 --
+21:16:11 | [563/700] Hercules (1997) | Animation, Adventure, Fantasy, Comedy | similar
+21:16:14 | [564/700] Mulan (1998) | Adventure, Action, Coming-of-age, Fantasy | similar
+21:16:15 | [565/700] The Iron Giant (1999) | Animation, Science Fiction, Action, Adventure | similar
+21:16:17 | [566/700] Fantasia 2000 (1999) | Fantasy, Musical, Animation | similar
+21:16:17 |    -- avance guardado | 1170 páginas en 42.7 min | cola: 19716 --
+21:16:20 | [567/700] Finding Nemo (2003) | Adventure, Comedy, Animation | similar
+21:16:21 | [568/700] Flushed Away (2006) | Adventure, Animation, Comedy, Action | similar
+21:16:23 | [569/700] Surf's Up (2007) | Comedy, Animation, Sports | similar
+21:16:26 | [570/700] Kung Fu Panda (2008) | Martial Arts, Comedy, Action, Animation | similar
+21:16:29 | [571/700] The Princess and the Frog (2009) | Animation, Adventure, Fantasy, Comedy-drama | similar
+21:16:29 | [572/700] How to Train Your Dragon (2010) | Animation, Fantasy, Comedy, Action | similar
+21:16:33 | [573/700] The Adventures of Tintin (2011) | Adventure, Action, Animation, Buddy | similar
+21:16:34 | [574/700] Rise of the Guardians (2012) | Christmas, Fantasy, Action, Adventure | similar
+21:16:35 | [575/700] The Croods (2013) | Adventure, Comedy, Animation | similar
+21:16:37 | [576/700] The Good Dinosaur (2015) | Coming-of-age, Comedy, Animation, Buddy | similar
+21:16:38 |    -- avance guardado | 1180 páginas en 43.1 min | cola: 19967 --
+21:16:41 | [577/700] Moana (2016) | Fantasy, Musical, Teen, Animation | similar
+21:16:43 | [578/700] Coco (2017) | Coming-of-age, Comedy-drama, Supernatural, Animation | similar
+21:16:45 | [579/700] Ralph Breaks the Internet (2018) | Satire, Animation, Fantasy, Comedy | similar
+21:16:47 | [580/700] Frozen 2 (2019) | Animation, Fantasy, Musical | similar
+21:16:48 | [581/700] Edge of Tomorrow (2014) | Dystopian, Adventure, Science Fiction, Action | similar
+21:16:52 | [582/700] Soul (2020) | Comedy-drama, Fantasy, Animation, Comedy | similar
+21:16:56 | [583/700] The Mitchells vs. the Machines (2021) | Coming-of-age, Comedy, Science Fiction, Animation | similar
+21:16:58 | [584/700] The Wild Robot (2024) | Animation, Science Fiction, Adventure | similar
+21:17:01 | [585/700] KPop Demon Hunters (2025) | Fantasy, Action, Musical, Animation | similar
+21:17:02 | [586/700] A Few Good Men (1992) | Drama, Crime | similar
+21:17:02 |    -- avance guardado | 1190 páginas en 43.5 min | cola: 20083 --
+21:17:04 | [587/700] Menace II Society (1993) | Coming-of-age, Drama, Teen, Crime | similar
+21:17:08 | [588/700] Pulp Fiction (1994) | Comedy-drama, Crime, Neo-noir | similar
+21:17:10 | [589/700] Seven (1995) | Drama, Crime, Thriller, Neo-noir | similar
+21:17:12 | [590/700] Scream (1996) | Satire, Slasher, Horror, Teen | similar
+21:17:14 | [591/700] There ' s Something About Mary (1998) | Comedy, Romance, Teen | similar
+21:17:17 | [592/700] Napoleon Dynamite (2004) | Comedy, Buddy, Coming-of-age, Teen | similar
+21:17:18 | [593/700] Wedding Crashers (2005) | Comedy, Buddy, Romance, Teen | similar
+21:17:22 | [594/700] Transformers (2007) | Science Fiction, Adventure, Action, Teen | similar
+21:17:24 | [595/700] Scream VI (2023) | Slasher, Thriller, Crime, Mystery | similar
+21:17:27 | [596/700] Beauty and the Beast (2017) | Fantasy, Musical, Romance, Teen | similar
+21:17:27 |    -- avance guardado | 1200 páginas en 43.9 min | cola: 20320 --
+21:17:28 | [597/700] Happy Gilmore (1996) | Sports, Comedy | similar
+21:17:30 | [598/700] The Craft (1996) | Dark Fantasy, Fantasy, Drama, Buddy | similar
+21:17:32 | [599/700] Rush Hour 2 (2001) | Buddy, Martial Arts, Comedy, Action | similar
+21:17:35 | [600/700] Mr. & Mrs. Smith (2005) | Comedy, Crime, Romance, Action | similar
+21:17:38 | [601/700] 300 (2006) | Historical, Action, War | similar
+21:17:40 | [602/700] Never Back Down (2008) | Coming-of-age, Teen, Martial Arts, Action | similar
+21:17:42 | [603/700] Obsessed (2009) | Psychological, Thriller | similar
+21:17:43 | [604/700] The Maze Runner (2014) | Thriller, Action, Science Fiction, Adventure | similar
+21:17:48 |    -- avance guardado | 1210 páginas en 44.2 min | cola: 20385 --
+21:17:54 | [605/700] WALL-E (2008) | Animation, Satire, Science Fiction, Comedy | similar
+21:17:55 | [606/700] Moon (2009) | Science Fiction, Adventure | similar
+21:18:00 | [607/700] The Martian (2015) | Science Fiction, Drama, Action, Adventure | similar
+21:18:02 | [608/700] Arrival (2016) | Thriller, Mystery, Drama, Science Fiction | similar
+21:18:05 | [609/700] The Old Guard (2020) | Adventure, Action, Thriller, Superhero | similar
+21:18:08 | [610/700] Sinners (2025) | Musical, Action, Horror, Fantasy | similar
+21:18:10 | [611/700] (500) Days of Summer (2009) | Comedy-drama, Romance, Coming-of-age | similar
+21:18:10 |    -- avance guardado | 1220 páginas en 44.6 min | cola: 20414 --
+21:18:12 | [612/700] Gifted (2017) | Drama | similar
+21:18:13 | [613/700] The Only Living Boy in New York (2017) | Drama | similar
+21:18:17 | [614/700] Disney's Snow White (2025) | Fantasy, Musical, Romance, Adventure | similar
+21:18:18 |    (incompleta, no la guardo) Day Drinker
+21:18:20 | [615/700] Kiss Kiss Bang Bang (2005) | Comedy, Buddy, Christmas, Mystery | similar
+21:18:22 | [616/700] The Nice Guys (2016) | Comedy, Buddy, Action, Crime | similar
+21:18:25 | [617/700] The Predator (2018) | Science Fiction, Action, Adventure, Horror | similar
+21:18:27 | [618/700] Play Dirty (2025) | Heist, Thriller, Action, Crime | similar
+21:18:29 | [619/700] Lethal Weapon (1987) | Buddy, Action, Comedy, Thriller | similar
+21:18:39 | [620/700] The Monster Squad (1987) | Comedy, Horror, Fantasy, Vampire | similar
+21:18:41 |    -- avance guardado | 1230 páginas en 45.1 min | cola: 20518 --
+21:18:42 | [621/700] Lethal Weapon 2 (1989) | Thriller, Action, Comedy, Buddy | similar
+21:18:45 | [622/700] The Last Boy Scout (1991) | Action, Comedy, Buddy, Christmas | similar
+21:18:47 | [623/700] The Long Kiss Goodnight (1996) | Christmas, Spy, Thriller, Action | similar
+21:18:53 | [624/700] Hotel Artemis (2018) | Thriller, Action, Crime, Cyberpunk | similar
+21:18:56 | [625/700] Fast & Furious Presents: Hobbs & Shaw (2019) | Comedy, Buddy, Adventure, Action | similar
+21:18:57 | [626/700] The Fall Guy (2024) | Action, Comedy, Thriller, Adventure | similar
+21:19:03 | [627/700] Joker (2019) | Psychological, Thriller, Drama, Crime | similar
+21:19:04 | [628/700] The Matrix Reloaded (2003) | Dystopian, Martial Arts, Science Fiction, Action | similar
+21:19:06 | [629/700] Harry Potter and the Prisoner of Azkaban (2004) | Adventure, Fantasy, Teen | similar
+21:19:06 |    -- avance guardado | 1240 páginas en 45.5 min | cola: 20533 --
+21:19:08 | [630/700] Sherlock Holmes (2009) | Mystery, Thriller, Action, Drama | similar
+21:19:10 | [631/700] Fast Five (2011) | Thriller, Action, Heist, Teen | similar
+21:19:11 | [632/700] Abduction (2011) | Thriller, Mystery, Political, Action | similar
+21:19:13 | [633/700] Heavy (1995) | Drama | similar
+21:19:15 | [634/700] Cop Land (1997) | Thriller, Crime, Neo-noir | similar
+21:19:16 | [635/700] Girl, Interrupted (1999) | Biographical, Drama, Coming-of-age, Psychological | similar
+21:19:18 | [636/700] Kate & Leopold (2001) | Romance, Comedy, Fantasy, Science Fiction | similar
+21:19:20 | [637/700] Identity (2003) | Horror, Psychological, Thriller, Mystery | similar
+21:19:21 | [638/700] Walk the Line (2005) | Biographical, Drama, Teen | similar
+21:19:23 | [639/700] Knight and Day (2010) | Action, Comedy, Spy | similar
+21:19:23 |    -- avance guardado | 1250 páginas en 45.8 min | cola: 20688 --
+21:19:25 | [640/700] Ford v Ferrari (2019) | Drama, Buddy, Action, Biographical | similar
+21:19:31 | [641/700] A Complete Unknown (2024) | Biographical, Drama, Historical, Musical | similar
+21:19:45 |    -- avance guardado | 1260 páginas en 46.2 min | cola: 20789 --
+21:20:04 |    -- avance guardado | 1270 páginas en 46.5 min | cola: 20779 --
+21:20:15 | [642/700] People Like Us (2012) | Drama | similar
+21:20:16 | [643/700] The Island (2005) | Science Fiction, Thriller, Dystopian, Action | similar
+21:20:18 | [644/700] The Legend of Zorro (2005) | Western, Adventure, Action | similar
+21:20:21 | [645/700] Star Trek Into Darkness (2013) | Science Fiction, Adventure, Action | similar
+21:20:23 |    -- avance guardado | 1280 páginas en 46.8 min | cola: 20833 --
+21:20:40 |    -- avance guardado | 1290 páginas en 47.1 min | cola: 20823 --
+21:20:45 | [646/700] Slither (2006) | Comedy, Horror, Science Fiction, Zombie | similar
+21:20:47 | [647/700] Super (2010) | Action, Comedy, Drama, Black Comedy | similar
+21:20:51 | [648/700] The Suicide Squad (2021) | Superhero, Comedy, Action, Black Comedy | similar
+21:20:53 | [649/700] Superman (2025) | Science Fiction, Adventure, Drama, Action | similar
+21:20:54 |    (incompleta, no la guardo) Man of Tomorrow
+21:20:58 | [650/700] Tromeo & Juliet (1996) | Black Comedy, Comedy, Horror | similar
+21:20:59 | [651/700] The Specials (2000) | Action, Comedy, Superhero | similar
+21:21:01 | [652/700] Scooby-Doo (2002) | Adventure, Comedy, Buddy, Fantasy | similar
+21:21:02 |    -- avance guardado | 1300 páginas en 47.5 min | cola: 20904 --
+21:21:03 | [653/700] Dawn of the Dead (2004) | Action, Horror, Zombie | similar
+21:21:04 | [654/700] LolliLove (2004) | Comedy, Satire | similar
+21:21:05 | [655/700] The Belko Experiment (2016) | Action, Horror, Psychological, Thriller | similar
+21:21:09 | [656/700] Coyote vs. Acme (2026) | Animation, Comedy | similar
+21:21:21 |    -- avance guardado | 1310 páginas en 47.8 min | cola: 20977 --
+21:21:24 | [657/700] Brightburn (2019) | Science Fiction, Horror, Superhero, Thriller | similar
+21:21:28 | [658/700] Drive (2011) | Action, Drama, Crime, Thriller | similar
+21:21:30 | [659/700] Skyfall (2012) | Action, Spy, Adventure | similar
+21:21:32 | [660/700] Lone Survivor (2013) | War, Action, Drama, Biographical | similar
+21:21:33 | [661/700] Hacksaw Ridge (2016) | Biographical, Drama, War | similar
+21:21:35 | [662/700] Da 5 Bloods (2020) | Drama, War | similar
+21:21:37 | [663/700] Sleeper (1973) | Satire, Science Fiction, Comedy, Dystopian | similar
+21:21:38 | [664/700] Young Frankenstein (1974) | Parody, Comedy-drama, Comedy, Horror | similar
+21:21:40 | [665/700] Galaxy Quest (1999) | Adventure, Parody, Science Fiction, Comedy | similar
+21:21:41 |    -- avance guardado | 1320 páginas en 48.1 min | cola: 21214 --
+21:21:43 | [666/700] Howl ' s Moving Castle (2004) | Animation, Adventure, Fantasy, Romance | similar
+21:21:47 | [667/700] District 9 (2009) | Thriller, Action, Science Fiction | similar
+21:21:50 | [668/700] Beasts of the Southern Wild (2012) | Drama, Fantasy | similar
+21:21:51 | [669/700] Get Out (2017) | Thriller, Horror, Psychological, Satire | similar
+21:22:00 |    -- avance guardado | 1330 páginas en 48.4 min | cola: 21402 --
+21:22:04 | [670/700] The Computer Wore Tennis Shoes (1995) | Science Fiction, Comedy | similar
+21:22:06 |    (incompleta, no la guardo) The Love Bug
+21:22:07 | [671/700] Bring It On (2000) | Sports, Comedy, Teen, Buddy | similar
+21:22:09 | [672/700] Down with Love (2003) | Romance, Comedy, Historical, Satire | similar
+21:22:12 | [673/700] The Break-Up (2006) | Comedy-drama, Romance, Teen | similar
+21:22:14 | [674/700] Yes Man (2008) | Romance, Comedy | similar
+21:22:16 | [675/700] A Fistful of Fingers (1995) | Parody, Western, Comedy | similar
+21:22:19 | [676/700] Shaun of the Dead (2004) | Zombie, Comedy, Buddy, Horror | similar
+21:22:20 | [677/700] Hot Fuzz (2007) | Comedy, Buddy, Parody, Satire | similar
+21:22:20 |    -- avance guardado | 1340 páginas en 48.8 min | cola: 21429 --
+21:22:24 | [678/700] Scott Pilgrim vs. the World (2010) | Action, Comedy, Romance | similar
+21:22:24 | [679/700] The World's End (2013) | Black Comedy, Comedy, Horror, Science Fiction | similar
+21:22:27 | [680/700] Baby Driver (2017) | Thriller, Action, Crime, Comedy | similar
+21:22:28 | [681/700] Last Night in Soho (2021) | Thriller, Horror, Psychological, Supernatural | similar
+21:22:30 | [682/700] The Running Man (2025) | Action, Dystopian, Science Fiction, Thriller | similar
+21:22:34 | [683/700] Grindhouse (2007) | Slasher, Thriller, Action, Horror | similar
+21:22:35 | [684/700] The Sparks Brothers (2021) | Documentary | similar
+21:22:39 |    -- avance guardado | 1350 páginas en 49.1 min | cola: 21546 --
+21:22:44 |    (incompleta, no la guardo) Three Flavours Cornetto
+21:22:46 | [685/700] Step Brothers (2008) | Comedy, Buddy, Christmas | similar
+21:22:48 | [686/700] The Other Guys (2010) | Buddy, Comedy, Action, Crime | similar
+21:22:54 | [687/700] The Big Short (2015) | Biographical, Comedy-drama, Crime, Historical | similar
+21:22:58 | [688/700] Vice (2018) | Biographical, Black Comedy, Comedy-drama, Political | similar
+21:23:00 | [689/700] Don't Look Up (2021) | Satire, Political, Comedy, Science Fiction | similar
+21:23:01 | [690/700] The Campaign (2012) | Political, Comedy, Satire | similar
+21:23:02 | [691/700] Get Hard (2015) | Comedy, Buddy, Crime | similar
+21:23:04 | [692/700] The Landlord (2007) | Comedy | similar
+21:23:04 |    -- avance guardado | 1360 páginas en 49.5 min | cola: 21635 --
+21:23:16 | [693/700] Attack the Block (2011) | Comedy, Horror, Science Fiction, Action | similar
+21:23:18 | [694/700] The Kid Who Would Be King (2019) | Adventure, Fantasy | similar
+21:23:21 | [695/700] Chronicle (2012) | Science Fiction, Action, Thriller, Psychological | similar
+21:23:24 | [696/700] Capone (2020) | Biographical, Drama | similar
+21:23:26 |    -- avance guardado | 1370 páginas en 49.9 min | cola: 21668 --
+21:23:28 | [697/700] The Lazarus Effect (2015) | Thriller, Horror, Supernatural, Science Fiction | similar
+21:23:31 | [698/700] Pet (2016) | Thriller, Crime, Horror, Psychological | similar
+21:23:32 | [699/700] Death Note (2017) | Thriller, Crime, Horror, Supernatural | similar
+21:23:34 | [700/700] Mortal Kombat II (2026) | Fantasy, Action, Martial Arts, Monster | similar
+21:23:34 | ======================================================================
+21:23:34 | Películas en el CSV: 700 | páginas pedidas: 1374 | descartadas: 608 | tiempo: 50.0 min
+21:23:34 | CSV: C:\Users\myran\Desktop\SEPTIMO CUATRI\FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL\marvel_crawler\marvel_crawler\datos\peliculas_marvel.csv
+21:23:34 | ¡Listo! Revisa el CSV con:  python validar_csv.py
